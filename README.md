@@ -17,6 +17,11 @@
 ## Webサービス(非公式・学生団体・有志)
 
 - [open coins](https://www.open.coins.tsukuba.ac.jp/) - 学類の使わなくなった古い計算資源を用いてサービスを提供するだんた。学類共同マシンの起動中OSをオンラインで確認できるサービスなどがある。
+- [KDBもどき](https://make-it-tsukuba.github.io/alternative-tsukuba-kdb/) - シラバス検索サービスKDBの代替サービス。KDBより検索が高速。
+- KDBシラバスミラー - KDBが保存しているシラバスページをミラーするサイト。KDBもどきから表示できる。
+- [筑波大学 総合学域群 移行要件チェックツール](https://boke.itsu.dev/scs-migration-checker/) - 総合学域群から他学科への移行要件をチェックできるツール。
+- [Twinkle](https://app.twinkle.nandenjin.com/) - 履修している授業を登録すると、Googleカレンダーと連携し授業の予定を自動登録してくれる。
+- [TwinCal](https://cal.tsukuba.io/) - 履修している授業を登録すると、カレンダーファイル（.ics）を出力でき、GoogleカレンダーやAppleカレンダーなどにインポートできる。
 
 ## スマホアプリ
 
