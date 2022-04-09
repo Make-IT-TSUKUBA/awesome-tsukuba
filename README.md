@@ -27,7 +27,6 @@
 - [筑波大学 総合学域群 移行要件チェックツール](https://boke.itsu.dev/scs-migration-checker/) - 総合学域群から他学科への移行要件をチェックできるツール。
 - [Twinkle](https://app.twinkle.nandenjin.com/) - 履修している授業を登録すると、Googleカレンダーと連携し授業の予定を自動登録してくれる。
 - [TwinCal](https://cal.tsukuba.io/) - 履修している授業を登録すると、カレンダーファイル（.ics）を出力でき、GoogleカレンダーやAppleカレンダーなどにインポートできる。
-- []
 
 ## スマホアプリ
 
@@ -46,6 +45,14 @@
 
 - [VPNサービス](https://www.cc.tsukuba.ac.jp/wp/service/vpn/) - 大学学内からのみアクセスできるページに大学学外からアクセスできる。
 - [Wi-Fi](https://www.cc.tsukuba.ac.jp/wp/service/wireless/) - 学内のWi-Fiアクセスポイント。802.1x接続も可能。
+- [eduroam](https://www.cc.tsukuba.ac.jp/wp/service/eduroam/) - eduroamに加盟している他の大学に行った時、その大学でWi-Fiを利用できる。
+
+## クラウドサービス
+
+- [sメール](https://cloudmail.u.tsukuba.ac.jp/) - 大学で利用できるメールアドレス。
+- [ホーム使用量確認・増量](https://www.u.tsukuba.ac.jp/disk/) - ホームディレクトリの容量を増量申請できる。
+- [OneDrive for Business](https://onedrive.live.com/about/ja-jp/signin/) - 1TBまでOnedriveが利用できる。
+- [リモートアクセス](https://www.u.tsukuba.ac.jp/remote/) - 大学の共用パソコンにVNCやブラウザからリモートデスクトップが行える。
 
 ## ライセンス付与・割引
 
@@ -75,3 +82,4 @@
 - [筑波大学体育センター](https://www.sapec.tsukuba.ac.jp/?feed=rss2)
 - [筑波大学保健管理センター](https://www.hokekan.tsukuba.ac.jp/feed)
 - [筑波大学厚生会 福利厚生施設案内](https://kosei.sec.tsukuba.ac.jp/feed/)
+- [全学計算機システム](https://www.u.tsukuba.ac.jp/feed/)
