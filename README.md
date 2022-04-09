@@ -17,6 +17,7 @@
 
 - [Tulips](https://www.tulips.tsukuba.ac.jp/lib/) - 附属図書館のサイト。蔵書の検索や、自分が借りている書籍一覧、貸出延長などがWeb上で行える。
 - [生涯メールアドレス](https://futureship.sec.tsukuba.ac.jp/alumni/mail/) - 筑波大学を卒業しても一生使えるGsuiteアカウントが作成できる。
+- [筑波大学カード](https://futureship.sec.tsukuba.ac.jp/tsukubacard/) - 年会費無料のクレジットカードで、大学付近店舗で優待がある。
 
 ## Webサービス・Webサイト(非公式・学生団体・有志)
 
