@@ -44,6 +44,13 @@
 - [えりたんBOT @eritanbot](https://twitter.com/eritanbot) - 循環バスの時刻表や授業の教室検索が行えるbotアカウント。スマホアプリも存在する。
 - [筑波大学 学生お役立ち情報(自動向け投稿アカウント) @Utsukuba_auto](https://twitter.com/Utsukuba_auto) - 学内のセンターやサイトの新着情報を自動投稿する。
 
+## アドベントカレンダー
+
+- [筑波大学 Advent Calendar 2021](https://adventar.org/calendars/6472)
+- [mast Advent Calendar 2021](https://adventar.org/calendars/6614)
+- [klis Advent Calendar 2021](https://adventar.org/calendars/6617)
+- [coins20 Advent Calendar 2020](https://adventar.org/calendars/6010)
+
 ## フィード・RSS
 
 - [Twins掲示板 在学生へのお知らせ](https://mkobayashime.github.io/twins-announcements/twins-announcements-atom1.xml)
