@@ -32,6 +32,7 @@
 
 - [manaba enhanced (Chrome)](https://chrome.google.com/webstore/detail/manaba-enhanced-for-tsuku/fldngcbchlbfgbccilklplmhljilhfch) - manabaの課題を色分けしたり、外部リンクのポップアップを消したり、コースのフィルタリングが行える。
 - [Manaba Report Integration by Twin:te](https://chrome.google.com/webstore/detail/manaba-report-integration/gbcijpgbppbphpikpdohpgmpcgdemnai?hl=ja) - manabaの課題をGoogle TasksやTrelloと同期できる。
+- [manaba2kdb](https://chrome.google.com/webstore/detail/manaba2kdb/ladninjcfokoplngpcmlfkijickcoanc) - manabaの科目番号をシラバス（KDB）へのリンクにする。
 
 ## Twitter Bot
 
