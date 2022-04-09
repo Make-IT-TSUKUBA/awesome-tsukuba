@@ -6,19 +6,19 @@
 
 ## 目次
 
-- Webサービス(公式)
-- Webサービス(非公式・学生団体・有志)
+- Webサービス・Webサイト(公式)
+- Webサービス・Webサイト(非公式・学生団体・有志)
 - スマホアプリ
 - ブラウザ拡張機能・ユーザースクリプト
 - Twitter Bot
 - フィード・RSS
 
-## Webサービス(公式)
+## Webサービス・Webサイト(公式)
 
 - [Tulips](https://www.tulips.tsukuba.ac.jp/lib/) - 附属図書館のサイト。蔵書の検索や、自分が借りている書籍一覧、貸出延長などがWeb上で行える。
 - [生涯メールアドレス](https://futureship.sec.tsukuba.ac.jp/alumni/mail/) - 筑波大学を卒業しても一生使えるGsuiteアカウントが作成できる。
 
-## Webサービス(非公式・学生団体・有志)
+## Webサービス・Webサイト(非公式・学生団体・有志)
 
 - [open coins](https://www.open.coins.tsukuba.ac.jp/) - 学類の使わなくなった古い計算資源を用いてサービスを提供するだんた。学類共同マシンの起動中OSをオンラインで確認できるサービスなどがある。
 - [KDBもどき](https://make-it-tsukuba.github.io/alternative-tsukuba-kdb/) - シラバス検索サービスKDBの代替サービス。KDBより検索が高速。
