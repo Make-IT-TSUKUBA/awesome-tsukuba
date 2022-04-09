@@ -9,6 +9,9 @@
 - Webサービス(公式)
 - Webサービス(非公式・学生団体・有志)
 - スマホアプリ
+- ブラウザ拡張機能・ユーザースクリプト
+- Twitter Bot
+- フィード・RSS
 
 ## Webサービス(公式)
 
@@ -33,7 +36,11 @@
 - [manaba enhanced (Chrome)](https://chrome.google.com/webstore/detail/manaba-enhanced-for-tsuku/fldngcbchlbfgbccilklplmhljilhfch) - manabaの課題を色分けしたり、外部リンクのポップアップを消したり、コースのフィルタリングが行える。
 - [Manaba Report Integration by Twin:te](https://chrome.google.com/webstore/detail/manaba-report-integration/gbcijpgbppbphpikpdohpgmpcgdemnai?hl=ja) - manabaの課題をGoogle TasksやTrelloと同期できる。
 - [manaba2kdb](https://chrome.google.com/webstore/detail/manaba2kdb/ladninjcfokoplngpcmlfkijickcoanc) - manabaの科目番号をシラバス（KDB）へのリンクにする。
+- [TWINS Enhanced](https://github.com/mkobayashime/twins-enhanced) - しばらく操作しないときにtwinsから自動ログインされるのを防ぐ。
 
 ## Twitter Bot
 
 - [@eritanbot](https://twitter.com/eritanbot) - 循環バスの時刻表や授業の教室検索が行えるbotアカウント。スマホアプリも存在する。
+- [筑波大学 学生お役立ち情報(自動向け投稿アカウント) @Utsukuba_auto](https://twitter.com/Utsukuba_auto) - 学内のセンターやサイトの新着情報を自動投稿する。
+
+## フィード・RSS
