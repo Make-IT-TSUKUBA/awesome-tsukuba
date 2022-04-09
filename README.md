@@ -16,6 +16,7 @@
 ## Webサービス(公式)
 
 - [Tulips](https://www.tulips.tsukuba.ac.jp/lib/) - 附属図書館のサイト。蔵書の検索や、自分が借りている書籍一覧、貸出延長などがWeb上で行える。
+- [生涯メールアドレス](https://futureship.sec.tsukuba.ac.jp/alumni/mail/) - 筑波大学を卒業しても一生使えるGsuiteアカウントが作成できる。
 
 ## Webサービス(非公式・学生団体・有志)
 
@@ -25,6 +26,7 @@
 - [筑波大学 総合学域群 移行要件チェックツール](https://boke.itsu.dev/scs-migration-checker/) - 総合学域群から他学科への移行要件をチェックできるツール。
 - [Twinkle](https://app.twinkle.nandenjin.com/) - 履修している授業を登録すると、Googleカレンダーと連携し授業の予定を自動登録してくれる。
 - [TwinCal](https://cal.tsukuba.io/) - 履修している授業を登録すると、カレンダーファイル（.ics）を出力でき、GoogleカレンダーやAppleカレンダーなどにインポートできる。
+- []
 
 ## スマホアプリ
 
