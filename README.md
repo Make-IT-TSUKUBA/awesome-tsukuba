@@ -42,6 +42,19 @@
 - [manaba2kdb (Chrome)](https://chrome.google.com/webstore/detail/manaba2kdb/ladninjcfokoplngpcmlfkijickcoanc) - manabaの科目番号をシラバス（KDB）へのリンクにする。
 - [TWINS Enhanced (Userscript)](https://github.com/mkobayashime/twins-enhanced) - しばらく操作しないときにtwinsから自動ログインされるのを防ぐ。
 
+## ネットワーク
+
+- [VPNサービス](https://www.cc.tsukuba.ac.jp/wp/service/vpn/) - 大学学内からのみアクセスできるページに大学学外からアクセスできる。
+- [Wi-Fi](https://www.cc.tsukuba.ac.jp/wp/service/wireless/) - 学内のWi-Fiアクセスポイント。802.1x接続も可能。
+
+## ライセンス付与・割引
+
+- [SPSS サイトライセンス](https://www.cc.tsukuba.ac.jp/wp/service/sl/spss/) - 統計解析ソフトウェアの有償ライセンスが無料で利用できる。
+- [Mathematica サイトライセンス](https://www.cc.tsukuba.ac.jp/wp/service/sl/mathematica/) - Mathematica for Studentsが無料で利用できる。
+- [Microsoft 製品 (EES 特典：個人使用)](https://www.cc.tsukuba.ac.jp/wp/service/sl/ees/tokuten/) - Microsoft Officeが無料でインストールできる。
+- [MS Surface](https://www.cc.tsukuba.ac.jp/wp/service/surface/) - Surfaceを割引価格で購入できる。
+- [Apple On Campus (AOC)](https://www.cc.tsukuba.ac.jp/wp/service/apple-on-campus/) - Apple製品を割引価格で購入できる。
+
 ## Twitter Bot
 
 - [えりたんBOT @eritanbot](https://twitter.com/eritanbot) - 循環バスの時刻表や授業の教室検索が行えるbotアカウント。スマホアプリも存在する。
