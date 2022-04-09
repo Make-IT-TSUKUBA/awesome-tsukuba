@@ -44,3 +44,10 @@
 - [筑波大学 学生お役立ち情報(自動向け投稿アカウント) @Utsukuba_auto](https://twitter.com/Utsukuba_auto) - 学内のセンターやサイトの新着情報を自動投稿する。
 
 ## フィード・RSS
+
+- [Twins掲示板 在学生へのお知らせ](https://mkobayashime.github.io/twins-announcements/twins-announcements-atom1.xml)
+- [筑波大学 公式サイト ニュース](https://www.tsukuba.ac.jp/news/rss)
+- [筑波大学 情報環境機構 学術情報メディアセンター](https://www.cc.tsukuba.ac.jp/wp/feed/)
+- [筑波大学体育センター](https://www.sapec.tsukuba.ac.jp/?feed=rss2)
+- [筑波大学保健管理センター](https://www.hokekan.tsukuba.ac.jp/feed)
+- [筑波大学厚生会 福利厚生施設案内](https://kosei.sec.tsukuba.ac.jp/feed/)
