@@ -30,9 +30,9 @@
 
 ## スマホアプリ
 
-- [Twin:te](https://www.twinte.net/) - 筑波大生専用時間割アプリ。PCからログインも行える。
-- [えりたんBot](https://eritanbot.net/) - キャンパスマップや循環バスの時刻表や授業の教室検索が行えるアプリ。
-- [筑波大学 面積比較アプリ](https://play.google.com/store/apps/details?id=info.nakajimadevnakajima.tsukubaunivcompare) - 筑波大学の面積をGoogle Map上で体感できるアプリ。
+- [Twin:te (iOS, Android)](https://www.twinte.net/) - 筑波大生専用時間割アプリ。PCからログインも行える。
+- [えりたんBot (iOS, Android)](https://eritanbot.net/) - キャンパスマップや循環バスの時刻表や授業の教室検索が行えるアプリ。
+- [筑波大学 面積比較アプリ (Android)](https://play.google.com/store/apps/details?id=info.nakajimadevnakajima.tsukubaunivcompare) - 筑波大学の面積をGoogle Map上で体感できるアプリ。
 
 ## ブラウザ拡張機能・ユーザースクリプト
 
