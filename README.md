@@ -45,6 +45,7 @@
 - [manaba Enhanced (Chrome)](https://chrome.google.com/webstore/detail/manaba-enhanced-for-tsuku/fldngcbchlbfgbccilklplmhljilhfch) - manabaの課題を色分けしたり、外部リンクのポップアップを消したり、コースのフィルタリングが行える。
 - [Manaba Report Integration by Twin:te (Chrome)](https://chrome.google.com/webstore/detail/manaba-report-integration/gbcijpgbppbphpikpdohpgmpcgdemnai?hl=ja) - manabaの課題をGoogle TasksやTrelloと同期できる。
 - [manaba2kdb (Chrome)](https://chrome.google.com/webstore/detail/manaba2kdb/ladninjcfokoplngpcmlfkijickcoanc) - manabaの科目番号をシラバス（KDB）へのリンクにする。
+- [modern-manaba (Chrome)](https://chrome.google.com/webstore/detail/modern-manaba/oimcohooopcpjnmdgijjicdhkifopbli) - manabaのUIを変更し、使いやすさを向上させる。
 - [TWINS Enhanced (Userscript)](https://github.com/mkobayashime/twins-enhanced) - しばらく操作しないときにtwinsから自動ログインされるのを防ぐ。
 
 ## ネットワーク
