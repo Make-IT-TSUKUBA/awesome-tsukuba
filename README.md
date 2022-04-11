@@ -27,12 +27,13 @@
 - [open coins](https://www.open.coins.tsukuba.ac.jp/) - 学類の使わなくなった古い計算資源を用いてサービスを提供する団体。学類共同マシンの起動中OSをオンラインで確認できるサービスなどがある。
 - [KDBもどき](https://make-it-tsukuba.github.io/alternative-tsukuba-kdb/) - KDBの代替サービス。フロントエンドのみで動作する。KDBより検索が高速。
 - [sylms Explorer](https://sylms-explorer.open.coins.tsukuba.ac.jp/) - KDBの代替サービス。独自のデータベースとAPIを持っている。KDBより検索が高速。
-- KDBシラバスミラー - KDBが保存しているシラバスページをミラーするサイト。KDBもどきから表示できる。
+- [KDBシラバスミラー](https://github.com/Make-IT-TSUKUBA/alternative-tsukuba-syllabus/) - KDBが保存しているシラバスページをミラーするサイト。KDBもどきから表示できる。
 - [筑波大学 総合学域群 移行要件チェックツール](https://boke.itsu.dev/scs-migration-checker/) - 総合学域群から他学科への移行要件をチェックできるツール。
 - [Twinkle](https://app.twinkle.nandenjin.com/) - 履修している授業を登録すると、Googleカレンダーと連携し授業の予定を自動登録してくれる。
 - [TwinCal](https://cal.tsukuba.io/) - 履修している授業を登録すると、カレンダーファイル（.ics）を出力でき、GoogleカレンダーやAppleカレンダーなどにインポートできる。
 - [TwinC](https://mimori256.github.io/twinc/#/) - 履修している授業を登録すると、カレンダーファイル（.ics）を出力でき、GoogleカレンダーやAppleカレンダーなどにインポートできる。
 - [そつぎょうできるかな](https://oshamashama.github.io/g-checker-for-itf/) - twinsからエクスポートしたcsvを読み込み、卒業や進級の履修要件に沿って単位修得ができているか確認できるツール。
+- [Klis Statistics](https://argonism.github.io/KlisStatistics/) - klisの成績分布・授業評価がグラフィカルに表示できるサイト。
 
 ## スマホアプリ
 
