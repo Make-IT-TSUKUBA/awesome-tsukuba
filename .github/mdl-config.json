@@ -1,0 +1,7 @@
+{
+    "default": true,
+    "line_length": false,
+    "MD004": {
+        "style": "dash"
+    }
+}

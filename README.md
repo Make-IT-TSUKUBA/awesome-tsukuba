@@ -1,6 +1,6 @@
 # Awesome Tsukuba [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
->  筑波大学に関連する便利なツール・サイト・スマホアプリなど 
+> 筑波大学に関連する便利なツール・サイト・スマホアプリなど
 
 プルリクエストは歓迎です。
 
@@ -74,6 +74,7 @@
 
 - [えりたんBOT @eritanbot](https://twitter.com/eritanbot) - 循環バスの時刻表や授業の教室検索が行えるbotアカウント。スマホアプリも存在する。
 - [筑波大学 学生お役立ち情報(自動向け投稿アカウント) @Utsukuba_auto](https://twitter.com/Utsukuba_auto) - 学内のセンターやサイトの新着情報を自動投稿する。
+- [筑波大学附属図書館 / 新着資料非公式Bot @tulipsnewbooks](https://twitter.com/tulipsnewbooks) - 図書館の新着資料を自動投稿する。
 
 ## アドベントカレンダー
 
