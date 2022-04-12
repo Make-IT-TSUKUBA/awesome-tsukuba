@@ -14,7 +14,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v2
-    - name: Lint with markdownlint
-      uses: articulate/actions-markdownlint@v1
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+      - name: Lint with markdownlint
+        uses: articulate/actions-markdownlint@v1
+        with:
+          config: .github/mdl-config.json
