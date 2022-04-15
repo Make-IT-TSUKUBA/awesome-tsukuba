@@ -10,9 +10,9 @@
 - Webサービス・Webサイト(非公式・学生団体・有志)
 - スマホアプリ
 - ブラウザ拡張機能・ユーザースクリプト
-- ネットワーク
-- クラウドサービス
-- ライセンス付与・割引
+- ネットワーク(公式)
+- クラウドサービス(公式)
+- ライセンス付与・割引(公式)
 - Twitter Bot
 - フィード・RSS
 
@@ -50,20 +50,20 @@
 - [modern-manaba (Chrome)](https://chrome.google.com/webstore/detail/modern-manaba/oimcohooopcpjnmdgijjicdhkifopbli) - manabaのUIを変更し、使いやすさを向上させる。
 - [TWINS Enhanced (Userscript)](https://github.com/mkobayashime/twins-enhanced) - しばらく操作しないときにtwinsから自動ログインされるのを防ぐ。
 
-## ネットワーク
+## ネットワーク(公式)
 
 - [VPNサービス](https://www.cc.tsukuba.ac.jp/wp/service/vpn/) - 大学学内からのみアクセスできるページに大学学外からアクセスできる。
 - [Wi-Fi](https://www.cc.tsukuba.ac.jp/wp/service/wireless/) - 学内のWi-Fiアクセスポイント。802.1x接続も可能。
 - [eduroam](https://www.cc.tsukuba.ac.jp/wp/service/eduroam/) - eduroamに加盟している他の大学に行った時、その大学でWi-Fiを利用できる。
 
-## クラウドサービス
+## クラウドサービス(公式)
 
 - [sメール](https://cloudmail.u.tsukuba.ac.jp/) - 大学で利用できるメールアドレス。
 - [ホーム使用量確認・増量](https://www.u.tsukuba.ac.jp/disk/) - ホームディレクトリの容量を増量申請できる。
 - [OneDrive for Business](https://onedrive.live.com/about/ja-jp/signin/) - 1TBまでOnedriveが利用できる。
 - [リモートアクセス](https://www.u.tsukuba.ac.jp/remote/) - 大学の共用パソコンにVNCやブラウザからリモートデスクトップが行える。
 
-## ライセンス付与・割引
+## ライセンス付与・割引(公式)
 
 - [SPSS サイトライセンス](https://www.cc.tsukuba.ac.jp/wp/service/sl/spss/) - 統計解析ソフトウェアの有償ライセンスが無料で利用できる。
 - [Mathematica サイトライセンス](https://www.cc.tsukuba.ac.jp/wp/service/sl/mathematica/) - Mathematica for Studentsが無料で利用できる。
