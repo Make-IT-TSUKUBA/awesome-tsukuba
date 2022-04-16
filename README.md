@@ -10,6 +10,7 @@
 - Webサービス・Webサイト(非公式・学生団体・有志)
 - スマホアプリ
 - ブラウザ拡張機能・ユーザースクリプト
+- GUIツール・CUIツール
 - ネットワーク(公式)
 - クラウドサービス(公式)
 - ライセンス付与・割引(公式)
@@ -49,6 +50,10 @@
 - [Put kdb link to twins subjects](https://chrome.google.com/webstore/detail/put-kdb-link-to-twins-sub/ddamljpbkecmjljapdkpepibancdiljd) - twinsの科目番号をシラバス（KDB）へのリンクにする。
 - [modern-manaba (Chrome)](https://chrome.google.com/webstore/detail/modern-manaba/oimcohooopcpjnmdgijjicdhkifopbli) - manabaのUIを変更し、使いやすさを向上させる。
 - [TWINS Enhanced (Userscript)](https://github.com/mkobayashime/twins-enhanced) - しばらく操作しないときにtwinsから自動ログインされるのを防ぐ。
+
+## GUIツール・CUIツール
+
+- [klis-unicalc](https://github.com/Gild-shogi/klis-unicalc) - Klis用の他主専攻科目の残り単位数を計算するプログラム。
 
 ## ネットワーク(公式)
 
