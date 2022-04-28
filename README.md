@@ -100,3 +100,4 @@
 - [筑波大学厚生会 福利厚生施設案内](https://kosei.sec.tsukuba.ac.jp/feed/)
 - [全学計算機システム](https://www.u.tsukuba.ac.jp/feed/)
 - [筑波大学スチューデントサポートセンター](https://ssc.sec.tsukuba.ac.jp/feed)
+- [筑波大学基金](https://futureship.sec.tsukuba.ac.jp/news/rss)
