@@ -36,7 +36,8 @@
 - [そつぎょうできるかな](https://oshamashama.github.io/g-checker-for-itf/) - twinsからエクスポートしたcsvを読み込み、卒業や進級の履修要件に沿って単位修得ができているか確認できるツール。
 - [Klis Statistics](https://argonism.github.io/KlisStatistics/) - klisの成績分布・授業評価がグラフィカルに表示できるサイト。
 - [BusVis](https://busvis.herokuapp.com/) - 大学循環バスの現在位置や時刻表がわかるサイト。
-- [COINS Project(終了)](https://web.archive.org/web/http://coins-p.cs.tsukuba.ac.jp/) - 過去に存在した、coins学生によるサービス開発グループのサイト。
+- [COINS Project(終了)](https://web.archive.org/web/http://coins-p.cs.tsukuba.ac.jp/) - 過去に存在した、coins学生によるサービス開発グループのサイト。EscapeGoat
+- [桐の葉(終了)](https://github.com/himkt/kirinoha) - 科目検索サービス。
 
 ## スマホアプリ
 
@@ -46,6 +47,7 @@
 - [つくばモデルアプリ(終了)](https://www.newforestar.com/tsukubamodelapp/) - 大学循環バスの現在位置や時刻表がわかるアプリ。
 - [iTsukuba(終了)](https://app-liv.jp/1399122/) - 時間割の管理やバスの時刻表がわかるアプリ。
 - [つくポン(終了)](https://iphone.308413110.com/ranking/detail/828517891/) - 大学の時刻表や当日の天気、授業開始時刻のカウントダウンができるアプリ。
+- [EscapeGoat(終了)](https://github.com/makky3939/EscapeGoat) - 知識情報・図書館学類生向けの卒業判定アプリ。
 
 ## ブラウザ拡張機能・ユーザースクリプト
 
