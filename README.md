@@ -96,6 +96,17 @@
 - [klis Advent Calendar 2021](https://adventar.org/calendars/6617)
 - [coins20 Advent Calendar 2020](https://adventar.org/calendars/6010)
 
+## トークイベント・LT会
+
+- [情つくば](https://www.youtube.com/channel/UCgNjwsxZCf4EInQuu06ZuUA)
+- coinsLT
+  - [coinsLT 0](https://atnd.org/events/51236)
+  - [coinsLT 1](https://connpass.com/event/10073/)
+  - [coinsLT 10](https://connpass.com/event/10782/)
+  - [coinsLT 11](https://coinslt.connpass.com/event/17415/)
+  - [coinsLT 110](https://connpass.com/event/152289/)
+  - [coinsLT 111](https://connpass.com/event/173974/)
+
 ## フィード・RSS
 
 - [Twins掲示板 在学生へのお知らせ](https://mkobayashime.github.io/twins-announcements/twins-announcements-atom1.xml)
