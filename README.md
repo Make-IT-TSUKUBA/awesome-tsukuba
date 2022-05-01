@@ -36,12 +36,16 @@
 - [そつぎょうできるかな](https://oshamashama.github.io/g-checker-for-itf/) - twinsからエクスポートしたcsvを読み込み、卒業や進級の履修要件に沿って単位修得ができているか確認できるツール。
 - [Klis Statistics](https://argonism.github.io/KlisStatistics/) - klisの成績分布・授業評価がグラフィカルに表示できるサイト。
 - [BusVis](https://busvis.herokuapp.com/) - 大学循環バスの現在位置や時刻表がわかるサイト。
+- [COINS Project(終了)](https://web.archive.org/web/http://coins-p.cs.tsukuba.ac.jp/) - 過去に存在した、coins学生によるサービス開発グループのサイト。
 
 ## スマホアプリ
 
 - [Twin:te (iOS, Android)](https://www.twinte.net/) - 筑波大生専用時間割アプリ。PCからログインも行える。
 - [えりたんBot (iOS, Android)](https://eritanbot.net/) - キャンパスマップや循環バスの時刻表や授業の教室検索が行えるアプリ。
 - [筑波大学 面積比較アプリ (Android)](https://play.google.com/store/apps/details?id=info.nakajimadevnakajima.tsukubaunivcompare) - 筑波大学の面積をGoogle Map上で体感できるアプリ。
+- [つくばモデルアプリ(終了)](https://www.newforestar.com/tsukubamodelapp/) - 大学循環バスの現在位置や時刻表がわかるアプリ。
+- [iTsukuba(終了)](https://app-liv.jp/1399122/) - 時間割の管理やバスの時刻表がわかるアプリ。
+- [つくポン(終了)](https://iphone.308413110.com/ranking/detail/828517891/) - 大学の時刻表や当日の天気、授業開始時刻のカウントダウンができるアプリ。
 
 ## ブラウザ拡張機能・ユーザースクリプト
 
