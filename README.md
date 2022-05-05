@@ -1,5 +1,15 @@
 # Awesome Tsukuba [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[![Lint](
+  https://github.com/Make-IT-TSUKUBA/awesome-tsukuba/actions/workflows/lint.yml/badge.svg
+)](
+  https://github.com/Make-IT-TSUKUBA/awesome-tsukuba/actions/workflows/lint.yml
+) [![pages-build-deployment](
+  https://github.com/Make-IT-TSUKUBA/awesome-tsukuba/actions/workflows/pages/pages-build-deployment/badge.svg
+)](
+  https://github.com/Make-IT-TSUKUBA/awesome-tsukuba/actions/workflows/pages/pages-build-deployment
+)
+
 > 筑波大学に関連する便利なツール・サイト・スマホアプリなど
 
 プルリクエストは歓迎です。
