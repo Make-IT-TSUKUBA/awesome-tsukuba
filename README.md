@@ -144,3 +144,4 @@
 - [筑波大学基金](https://futureship.sec.tsukuba.ac.jp/news/rss)
 - [筑波大学学生相談室](https://soudan.sec.tsukuba.ac.jp/feed)
 - [筑波大学 スポーツデー](https://www.spoday.info/feed/)
+- [中央アジア・日本人材育成プロジェクト](https://centralasia.jinsha.tsukuba.ac.jp/feed)
