@@ -133,15 +133,18 @@
 
 ## フィード・RSS
 
-- [Twins掲示板 在学生へのお知らせ](https://mkobayashime.github.io/twins-announcements/twins-announcements-atom1.xml)
-- [筑波大学 公式サイト ニュース](https://www.tsukuba.ac.jp/news/rss)
-- [筑波大学 情報環境機構 学術情報メディアセンター](https://www.cc.tsukuba.ac.jp/wp/feed/)
-- [筑波大学体育センター](https://www.sapec.tsukuba.ac.jp/?feed=rss2)
-- [筑波大学保健管理センター](https://www.hokekan.tsukuba.ac.jp/feed)
-- [筑波大学厚生会 福利厚生施設案内](https://kosei.sec.tsukuba.ac.jp/feed/)
-- [全学計算機システム](https://www.u.tsukuba.ac.jp/feed/)
-- [筑波大学スチューデントサポートセンター](https://ssc.sec.tsukuba.ac.jp/feed)
-- [筑波大学基金](https://futureship.sec.tsukuba.ac.jp/news/rss)
-- [筑波大学学生相談室](https://soudan.sec.tsukuba.ac.jp/feed)
-- [筑波大学 スポーツデー](https://www.spoday.info/feed/)
-- [中央アジア・日本人材育成プロジェクト](https://centralasia.jinsha.tsukuba.ac.jp/feed)
+- 全学生向け
+  - [Twins掲示板 在学生へのお知らせ](https://mkobayashime.github.io/twins-announcements/twins-announcements-atom1.xml)
+  - [筑波大学 公式サイト ニュース](https://www.tsukuba.ac.jp/news/rss)
+  - [筑波大学 情報環境機構 学術情報メディアセンター](https://www.cc.tsukuba.ac.jp/wp/feed/)
+  - [筑波大学保健管理センター](https://www.hokekan.tsukuba.ac.jp/feed)
+  - [筑波大学厚生会 福利厚生施設案内](https://kosei.sec.tsukuba.ac.jp/feed/)
+  - [筑波大学体育センター](https://www.sapec.tsukuba.ac.jp/?feed=rss2)
+  - [全学計算機システム](https://www.u.tsukuba.ac.jp/feed/)
+- イベント
+  - [筑波大学 スポーツデー](https://www.spoday.info/feed/)
+  - [中央アジア・日本人材育成プロジェクト](https://centralasia.jinsha.tsukuba.ac.jp/feed)
+  - [筑波大学スチューデントサポートセンター](https://ssc.sec.tsukuba.ac.jp/feed)
+- その他
+  - [筑波大学基金](https://futureship.sec.tsukuba.ac.jp/news/rss)
+  - [筑波大学学生相談室](https://soudan.sec.tsukuba.ac.jp/feed)
