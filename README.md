@@ -48,7 +48,6 @@
 - [そつぎょうできるかな](https://oshamashama.github.io/g-checker-for-itf/) - twinsからエクスポートしたcsvを読み込み、卒業や進級の履修要件に沿って単位修得ができているか確認できるツール。
 - [Klis Statistics](https://argonism.github.io/KlisStatistics/) - klisの成績分布・授業評価がグラフィカルに表示できるサイト。
 - [BusVis](https://busvis.herokuapp.com/) - 大学循環バスの現在位置や時刻表がわかるサイト。
-- [self-esteem](https://github.com/yudukikun5120/self-esteem) - manabaの成績ページで相対位置をパーセントで表示する。
 - ~[COINS Project(終了)](https://web.archive.org/web/http://coins-p.cs.tsukuba.ac.jp/)~ - coins学生によるサービス開発グループのサイト。EscapeGoat
 - ~[桐の葉(終了)](https://github.com/himkt/kirinoha)~ - 科目検索サービス。
 
@@ -70,6 +69,7 @@
 - [Put kdb link to twins subjects](https://chrome.google.com/webstore/detail/put-kdb-link-to-twins-sub/ddamljpbkecmjljapdkpepibancdiljd) - twinsの科目番号をシラバス（KDB）へのリンクにする。
 - [modern-manaba (Chrome)](https://chrome.google.com/webstore/detail/modern-manaba/oimcohooopcpjnmdgijjicdhkifopbli) - manabaのUIを変更し、使いやすさを向上させる。
 - [TWINS Enhanced (Userscript)](https://github.com/mkobayashime/twins-enhanced) - しばらく操作しないときにtwinsから自動ログインされるのを防ぐ。
+- [self-esteem](https://github.com/yudukikun5120/self-esteem) - manabaの成績ページで相対位置をパーセントで表示する。
 
 ## GUIツール・CUIツール
 
