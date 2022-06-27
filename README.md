@@ -151,3 +151,4 @@
   - [筑波大学基金](https://futureship.sec.tsukuba.ac.jp/news/rss)
   - [筑波大学学生相談室](https://soudan.sec.tsukuba.ac.jp/feed)
   - [筑波大学　オープンファシリティー推進機構](https://openfacility.sec.tsukuba.ac.jp/public/feed/)
+  - [筑波大学 春日地区クラス代表者会議](https://www.stb.tsukuba.ac.jp/~kasuga-campus/feed)
