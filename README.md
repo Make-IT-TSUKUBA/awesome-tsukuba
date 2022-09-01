@@ -47,6 +47,7 @@
 - [TwinC](https://mimori256.github.io/twinc/#/) - 履修している授業を登録すると、カレンダーファイル（.ics）を出力でき、GoogleカレンダーやAppleカレンダーなどにインポートできる。
 - [そつぎょうできるかな](https://oshamashama.github.io/g-checker-for-itf/) - twinsからエクスポートしたcsvを読み込み、卒業や進級の履修要件に沿って単位修得ができているか確認できるツール。
 - [Klis Statistics](https://argonism.github.io/KlisStatistics/) - klisの成績分布・授業評価がグラフィカルに表示できるサイト。
+- [self-esteem Grade Millefeuille](https://yudukikun5120.github.io/self-esteem-millefeuille/) - twins からエクスポートした CSV を読み込み、自分の成績分布を視覚化する。
 - [BusVis](https://busvis.herokuapp.com/) - 大学循環バスの現在位置や時刻表がわかるサイト。
 - ~[COINS Project(終了)](https://web.archive.org/web/http://coins-p.cs.tsukuba.ac.jp/)~ - coins学生によるサービス開発グループのサイト。EscapeGoat
 - ~[桐の葉(終了)](https://github.com/himkt/kirinoha)~ - 科目検索サービス。
