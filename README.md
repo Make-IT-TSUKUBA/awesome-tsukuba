@@ -76,6 +76,7 @@
 ## GUIツール・CUIツール
 
 - [klis-unicalc](https://github.com/Gild-shogi/klis-unicalc) - Klis用の他主専攻科目の残り単位数を計算するプログラム。
+- [Manaba Scoring](https://github.com/a3suger/manaba_scoring) - manabaのレポート採点業務を支援するアプリケーション。
 
 ## ネットワーク(公式)
 
