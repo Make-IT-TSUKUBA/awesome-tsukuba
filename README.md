@@ -72,7 +72,6 @@
 - [Tsukuba-syllabus (Chrome)](https://chrome.google.com/webstore/detail/tsukuba-syllabus/jplphmfnjbhjiibolbkbadnnjmoipjeb) - manabaのコースページにシラバス（KDB）へのリンクを追加する。
 - [Put kdb link to twins subjects (Chrome)](https://chrome.google.com/webstore/detail/put-kdb-link-to-twins-sub/ddamljpbkecmjljapdkpepibancdiljd) - twinsの科目番号をシラバス（KDB）へのリンクにする。
 - [modern-manaba (Chrome)](https://chrome.google.com/webstore/detail/modern-manaba/oimcohooopcpjnmdgijjicdhkifopbli) - manabaのUIを変更し、使いやすさを向上させる。
-- [modern-manaba (Chrome)](https://github.com/itsu-dev/modern-manaba) -  ManabaのUIを変えるChrome拡張。
 - [TWINS Enhanced (Userscript)](https://github.com/mkobayashime/twins-enhanced) - しばらく操作しないときにtwinsから自動ログインされるのを防ぐ。
 - [self-esteem](https://github.com/yudukikun5120/self-esteem) - manabaの成績ページで相対位置をパーセントで表示する。
 - [userscript-twins-insert-article-url-button (Userscript)](https://github.com/shuuji3/userscript-twins-insert-article-url-button) - 筑波大学のtwinsに「個別のお知らせページを開くボタン」と「他人と共有できるURLをコピーするボタン」を追加するスクリプト。
