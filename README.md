@@ -73,11 +73,15 @@
 - [modern-manaba (Chrome)](https://chrome.google.com/webstore/detail/modern-manaba/oimcohooopcpjnmdgijjicdhkifopbli) - manabaのUIを変更し、使いやすさを向上させる。
 - [TWINS Enhanced (Userscript)](https://github.com/mkobayashime/twins-enhanced) - しばらく操作しないときにtwinsから自動ログインされるのを防ぐ。
 - [self-esteem](https://github.com/yudukikun5120/self-esteem) - manabaの成績ページで相対位置をパーセントで表示する。
+- [userscript-twins-insert-article-url-button](https://github.com/shuuji3/userscript-twins-insert-article-url-button) - 筑波大学のtwinsに「個別のお知らせページを開くボタン」と「他人と共有できるURLをコピーするボタン」を追加するスクリプト。
 
 ## GUIツール・CUIツール
 
 - [klis-unicalc](https://github.com/Gild-shogi/klis-unicalc) - Klis用の他主専攻科目の残り単位数を計算するプログラム。
 - [Manaba Scoring](https://github.com/a3suger/manaba_scoring) - manabaのレポート採点業務を支援するアプリケーション。
+- [manaba-attend](https://github.com/shuuji3/manaba-attend) - Manabaの出席カード(respon)の提出を自動化するプログラム。
+- [kdb-parse](https://github.com/Mimori256/kdb-parse) - kdbのデータをjsonにする。
+- [twins-notification](https://github.com/shuuji3/twins-notification) - 筑波大学のTwinsの掲示板のお知らせを通知してくれるプログラム。
 
 ## ネットワーク(公式)
 
