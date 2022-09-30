@@ -172,6 +172,7 @@
 - [筑波大学学園祭実行委員会 情報メディアシステム局](https://sohosai.com/committee)
 - [筑波大学情報科学類誌 WORD編集部](https://www.word-ac.net/)
 - [情つくば](https://twitter.com/inftsukuba)
+- [OpenEsys](https://ayu.open.esys.tsukuba.ac.jp/)
 - 授業
   - [情報特別演習I](https://kdb.tsukuba.ac.jp/syllabi/2022/GB13312/jpn/0/)
   - [情報特別演習II](https://kdb.tsukuba.ac.jp/syllabi/2022/GB13322/jpn/0/)
