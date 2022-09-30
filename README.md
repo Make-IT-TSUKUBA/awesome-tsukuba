@@ -121,7 +121,7 @@
 
 ## トークイベント・LT会
 
-- [情つくば](https://www.youtube.com/channel/UCgNjwsxZCf4EInQuu06ZuUA)
+- [情つくば](https://twitter.com/inftsukuba) [Youtube](https://www.youtube.com/channel/UCgNjwsxZCf4EInQuu06ZuUA)
 - mastLT
   - [mastLT #2](https://togetter.com/li/296599)
   - [mastLT #5](https://ko31.github.io/atnd-archive/event/49644.html)
@@ -161,3 +161,20 @@
   - [筑波大学学生相談室](https://soudan.sec.tsukuba.ac.jp/feed)
   - [筑波大学　オープンファシリティー推進機構](https://openfacility.sec.tsukuba.ac.jp/public/feed/)
   - [筑波大学 春日地区クラス代表者会議](https://www.stb.tsukuba.ac.jp/~kasuga-campus/feed)
+
+## 学生団体・サークル・有志など
+
+大学内に存在するソフトウェア開発を行う団体や、プログラマーっぽい人が集まる団体、授業などについて。
+
+- [筑波大学を便利にする会](https://mit.tsukuba.me/)
+- [open-coins](https://www.open.coins.tsukuba.ac.jp/)
+- [全代会 総務委員会 情報部門](https://www.stb.tsukuba.ac.jp/~zdk/home/committee_gen)
+- [筑波大学学園祭実行委員会 情報メディアシステム局](https://sohosai.com/committee)
+- [筑波大学情報科学類誌 WORD編集部](https://www.word-ac.net/)
+- [情つくば](https://twitter.com/inftsukuba)
+- 授業
+  - [情報特別演習I](https://kdb.tsukuba.ac.jp/syllabi/2022/GB13312/jpn/0/)
+  - [情報特別演習II](https://kdb.tsukuba.ac.jp/syllabi/2022/GB13322/jpn/0/)
+  - [情報科学特別演習](https://kdb.tsukuba.ac.jp/syllabi/2022/GB13332/jpn/0/)
+  - [COJT](http://www.cojt.or.jp/tkb/)
+  - [enPiT](https://enpit.coins.tsukuba.ac.jp/about/)
