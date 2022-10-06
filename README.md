@@ -91,6 +91,7 @@
 
 - [twinte-parser (npm)](https://www.npmjs.com/package/twinte-parser) - Twinte内部で利用するために開発された KdB のパーサー。
 - [twinkle-parser (npm)](https://www.npmjs.com/package/twinkle-parser) - Parse CSV from https://kdb.tsukuba.ac.jp to structured JSON.
+- ~[twins-core (npm, 終了)](https://www.npmjs.com/package/twins-core)~ - Wrapper API Client of TWINS.
 
 ## ネットワーク(公式)
 
