@@ -86,7 +86,10 @@
 - [manaba-attend](https://github.com/shuuji3/manaba-attend) - Manabaの出席カード(respon)の提出を自動化するプログラム。
 - [kdb-parse](https://github.com/Mimori256/kdb-parse) - kdbのデータをjsonにする。
 - [twins-notification](https://github.com/shuuji3/twins-notification) - 筑波大学のTwinsの掲示板のお知らせを通知してくれるプログラム。
-
+- ~[Papercut-Submit (終了)](https://github.com/kajyuuen/Papercut-Submit)~ - 全学計算機のプリンタにファイルをアップロードするスクリプト。
+- ~[utprint (終了)](https://github.com/qqpann/utprint)~ - 全学計算機PaperCut Printのコマンドラインツール、Node.js版。
+- ~[atmnb (終了)](https://github.com/qqpann/atmnb)~ manaba出席のコマンドラインツール、Node.js版。
+- ~[tsukuba-me](https://github.com/qqpann/tsukuba-me)~ Univ. of Tsukuba utils: Manama attend, and Zengaku Printer Upload (PaperCut). [npm](https://www.npmjs.com/package/tsukuba-me) 
 ## ライブラリ・モジュール・パッケージ
 
 - [twinte-parser (npm)](https://www.npmjs.com/package/twinte-parser) - Twinte内部で利用するために開発された KdB のパーサー。
