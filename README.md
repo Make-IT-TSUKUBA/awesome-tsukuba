@@ -21,6 +21,7 @@
 - スマホアプリ
 - ブラウザ拡張機能・ユーザースクリプト
 - GUIツール・CUIツール
+- ライブラリ・モジュール・パッケージ
 - ネットワーク(公式)
 - クラウドサービス(公式)
 - ライセンス付与・割引(公式)
@@ -84,6 +85,11 @@
 - [manaba-attend](https://github.com/shuuji3/manaba-attend) - Manabaの出席カード(respon)の提出を自動化するプログラム。
 - [kdb-parse](https://github.com/Mimori256/kdb-parse) - kdbのデータをjsonにする。
 - [twins-notification](https://github.com/shuuji3/twins-notification) - 筑波大学のTwinsの掲示板のお知らせを通知してくれるプログラム。
+
+## ライブラリ・モジュール・パッケージ
+
+- [twinte-parser (npm)](https://www.npmjs.com/package/twinte-parser) - Twinte内部で利用するために開発された KdB のパーサー。
+- [twinkle-parser (npm)](https://www.npmjs.com/package/twinkle-parser) - Parse CSV from https://kdb.tsukuba.ac.jp to structured JSON.
 
 ## ネットワーク(公式)
 
