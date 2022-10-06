@@ -89,11 +89,12 @@
 - ~[Papercut-Submit (終了)](https://github.com/kajyuuen/Papercut-Submit)~ - 全学計算機のプリンタにファイルをアップロードするスクリプト。
 - ~[utprint (終了)](https://github.com/qqpann/utprint)~ - 全学計算機PaperCut Printのコマンドラインツール、Node.js版。
 - ~[atmnb (終了)](https://github.com/qqpann/atmnb)~ manaba出席のコマンドラインツール、Node.js版。
-- ~[tsukuba-me](https://github.com/qqpann/tsukuba-me)~ Univ. of Tsukuba utils: Manama attend, and Zengaku Printer Upload (PaperCut). [npm](https://www.npmjs.com/package/tsukuba-me) 
+- ~[tsukuba-me](https://github.com/qqpann/tsukuba-me)~ Univ. of Tsukuba utils: Manama attend, and Zengaku Printer Upload (PaperCut). [npm](https://www.npmjs.com/package/tsukuba-me)
+
 ## ライブラリ・モジュール・パッケージ
 
 - [twinte-parser (npm)](https://www.npmjs.com/package/twinte-parser) - Twinte内部で利用するために開発された KdB のパーサー。
-- [twinkle-parser (npm)](https://www.npmjs.com/package/twinkle-parser) - Parse CSV from https://kdb.tsukuba.ac.jp to structured JSON.
+- [twinkle-parser (npm)](https://www.npmjs.com/package/twinkle-parser) - Parse CSV from `https://kdb.tsukuba.ac.jp` to structured JSON.
 - ~[twins-core (npm, 終了)](https://www.npmjs.com/package/twins-core)~ - Wrapper API Client of TWINS.
 
 ## ネットワーク(公式)
