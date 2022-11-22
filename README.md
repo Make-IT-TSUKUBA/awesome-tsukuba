@@ -80,6 +80,7 @@
 - [self-esteem (Chrome)](https://github.com/yudukikun5120/self-esteem) - manabaの成績ページで相対位置をパーセントで表示する。
 - [userscript-twins-insert-article-url-button (Userscript)](https://github.com/shuuji3/userscript-twins-insert-article-url-button) - 筑波大学のtwinsに「個別のお知らせページを開くボタン」と「他人と共有できるURLをコピーするボタン」を追加するスクリプト。
 - [Manaba Local Time (Userscript)](https://github.com/onokatio/manaba-local-time) - manabaにJSTと共にブラウザの現地時刻を併記します。
+- [tulips2calil](https://github.com/eniehack/tulips2calil) - 大学附属図書館の蔵書検索ページにcalilへのリンクを追加する。
 
 ## GUIツール・CUIツール
 
