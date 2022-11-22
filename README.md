@@ -1,5 +1,6 @@
-# Awesome Tsukuba [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Tsukuba
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Lint](
   https://github.com/Make-IT-TSUKUBA/awesome-tsukuba/actions/workflows/lint.yml/badge.svg
 )](
