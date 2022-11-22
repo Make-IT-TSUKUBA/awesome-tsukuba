@@ -11,8 +11,7 @@
   https://github.com/Make-IT-TSUKUBA/awesome-tsukuba/actions/workflows/pages/pages-build-deployment
 )
 
-> 筑波大学に関連する便利なツール・サイト・スマホアプリなど
-
+筑波大学に関連する便利なツール・サイト・スマホアプリなどをまとめています。
 プルリクエストは歓迎です。自分のプロジェクトを掲載されたくない、消して欲しいなどの要望があればすぐに対応します。
 
 ## 目次
