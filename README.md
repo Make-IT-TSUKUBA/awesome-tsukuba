@@ -55,7 +55,7 @@
 - [A+つくば](https://www.aplus-tsukuba.net/) - 講義に関するわからない点を匿名で質問でき、他の学生に回答してもらえるサービス。
 - [筑波大学 自販機 Map](https://itf-vendingmachine.vercel.app/) - 筑波大学構内の自動販売機の場所を一覧できるサイト。
 - [筑波大学新歓Web](https://www.stb.tsukuba.ac.jp/~shinkan-web/) -  筑波大学のサークル等の団体の情報をまとめたポータルサイト。 [ソース](https://github.com/tsukuba-shinkan)
-- ~[COINS Project(終了)](https://web.archive.org/web/http://coins-p.cs.tsukuba.ac.jp/)~ - coins学生によるサービス開発グループのサイト。EscapeGoat
+- ~[COINS Project(終了)](https://web.archive.org/web/http://coins-p.cs.tsukuba.ac.jp/)~ - coins学生によるサービス開発グループのサイト。
 - ~[桐の葉(終了)](https://github.com/himkt/kirinoha)~ - 科目検索サービス。
 - ~[Welcoins (長期間未更新)](https://github.com/coins13/welcoins)~ - 新歓合宿および懇親会の出欠確認、出欠統計が行える簡易登録フォーム。
 
