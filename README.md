@@ -54,6 +54,7 @@
 - [BusVis](https://busvis.herokuapp.com/) - 大学循環バスの現在位置や時刻表がわかるサイト。
 - [A+つくば](https://www.aplus-tsukuba.net/) - 講義に関するわからない点を匿名で質問でき、他の学生に回答してもらえるサービス。
 - [筑波大学 自販機 Map](https://itf-vendingmachine.vercel.app/) - 筑波大学構内の自動販売機の場所を一覧できるサイト。
+- [筑波大学新歓Web](https://www.stb.tsukuba.ac.jp/~shinkan-web/) -  筑波大学のサークル等の団体の情報をまとめたポータルサイト。 [ソース](https://github.com/tsukuba-shinkan)
 - ~[COINS Project(終了)](https://web.archive.org/web/http://coins-p.cs.tsukuba.ac.jp/)~ - coins学生によるサービス開発グループのサイト。EscapeGoat
 - ~[桐の葉(終了)](https://github.com/himkt/kirinoha)~ - 科目検索サービス。
 
@@ -66,6 +67,7 @@
 - ~[iTsukuba(終了)](https://app-liv.jp/1399122/)~ - 時間割の管理やバスの時刻表がわかるアプリ。
 - ~[つくポン(終了)](https://iphone.308413110.com/ranking/detail/828517891/)~ - 大学の時刻表や当日の天気、授業開始時刻のカウントダウンができるアプリ。
 - ~[EscapeGoat(終了)](https://github.com/makky3939/EscapeGoat)~ - 知識情報・図書館学類生向けの卒業判定アプリ。
+- ~[Tsukuba mate(終了)](https://github.com/MuShare/Tsukuba-iOS)~ - 筑波大生向けのフリマアプリ。
 
 ## ブラウザ拡張機能・ユーザースクリプト
 
@@ -98,6 +100,7 @@
 
 - [twinte-parser (npm)](https://www.npmjs.com/package/twinte-parser) - Twinte内部で利用するために開発された KdB のパーサー。
 - [twinkle-parser (npm)](https://www.npmjs.com/package/twinkle-parser) - Parse CSV from `https://kdb.tsukuba.ac.jp` to structured JSON.
+- [ITF-Dic](https://github.com/nandenjin/itfdic) - MeCabで利用できる、筑波大学の独自語を自然言語解析辞書にまとめたもの。
 - ~[twins-core (npm, 終了)](https://www.npmjs.com/package/twins-core)~ - Wrapper API Client of TWINS.
 
 ## ネットワーク(公式)
@@ -126,6 +129,7 @@
 - [えりたんBOT @eritanbot](https://twitter.com/eritanbot) - 循環バスの時刻表や授業の教室検索が行えるbotアカウント。スマホアプリも存在する。
 - [筑波大学 学生お役立ち情報(自動向け投稿アカウント) @Utsukuba_auto](https://twitter.com/Utsukuba_auto) - 学内のセンターやサイトの新着情報を自動投稿する。
 - [筑波大学附属図書館 / 新着資料非公式Bot @tulipsnewbooks](https://twitter.com/tulipsnewbooks) - 図書館の新着資料を自動投稿する。[ソース](https://github.com/eggplants/nowlibcraw)
+- [ITF.授業通知bot @itf_notify (更新停止)](https://github.com/himkt/bulletin_bot)- 筑波大学・大学院の授業に関する掲示をTwitterでお知らせするBot。[ソース](https://github.com/himkt/bulletin_bot)
 
 ## アドベントカレンダー
 
