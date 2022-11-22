@@ -57,6 +57,7 @@
 - [筑波大学新歓Web](https://www.stb.tsukuba.ac.jp/~shinkan-web/) -  筑波大学のサークル等の団体の情報をまとめたポータルサイト。 [ソース](https://github.com/tsukuba-shinkan)
 - ~[COINS Project(終了)](https://web.archive.org/web/http://coins-p.cs.tsukuba.ac.jp/)~ - coins学生によるサービス開発グループのサイト。EscapeGoat
 - ~[桐の葉(終了)](https://github.com/himkt/kirinoha)~ - 科目検索サービス。
+- ~[Welcoins (長期間未更新)](https://github.com/coins13/welcoins)~ - 新歓合宿および懇親会の出欠確認、出欠統計が行える簡易登録フォーム。
 
 ## スマホアプリ
 
@@ -95,6 +96,7 @@
 - ~[utprint (終了)](https://github.com/qqpann/utprint)~ - 全学計算機PaperCut Printのコマンドラインツール、Node.js版。
 - ~[atmnb (終了)](https://github.com/qqpann/atmnb)~ manaba出席のコマンドラインツール、Node.js版。
 - ~[tsukuba-me](https://github.com/qqpann/tsukuba-me)~ Univ. of Tsukuba utils: Manama attend, and Zengaku Printer Upload (PaperCut). [npm](https://www.npmjs.com/package/tsukuba-me)
+- ~[twins (長期間未更新)](https://github.com/coins13/twins)~ -  Command-line interface to TWINS。
 
 ## ライブラリ・モジュール・パッケージ
 
@@ -129,7 +131,7 @@
 - [えりたんBOT @eritanbot](https://twitter.com/eritanbot) - 循環バスの時刻表や授業の教室検索が行えるbotアカウント。スマホアプリも存在する。
 - [筑波大学 学生お役立ち情報(自動向け投稿アカウント) @Utsukuba_auto](https://twitter.com/Utsukuba_auto) - 学内のセンターやサイトの新着情報を自動投稿する。
 - [筑波大学附属図書館 / 新着資料非公式Bot @tulipsnewbooks](https://twitter.com/tulipsnewbooks) - 図書館の新着資料を自動投稿する。[ソース](https://github.com/eggplants/nowlibcraw)
-- [ITF.授業通知bot @itf_notify (更新停止)](https://github.com/himkt/bulletin_bot)- 筑波大学・大学院の授業に関する掲示をTwitterでお知らせするBot。[ソース](https://github.com/himkt/bulletin_bot)
+- ~[ITF.授業通知bot @itf_notify (更新停止)](https://github.com/himkt/bulletin_bot)~ - 筑波大学・大学院の授業に関する掲示をTwitterでお知らせするBot。[ソース](https://github.com/himkt/bulletin_bot)
 
 ## アドベントカレンダー
 
