@@ -88,10 +88,12 @@
 ### manaba
 
 #### CLI
+
 - [manaba-attend](https://github.com/shuuji3/manaba-attend) - Manabaの出席カード(respon)の提出を自動化するプログラム。
 - ~[atmnb (終了)](https://github.com/qqpann/atmnb)~ manaba出席のコマンドラインツール、Node.js版。
 
 #### GUIアプリケーション
+
 - [Manaba Scoring](https://github.com/a3suger/manaba_scoring) - manabaのレポート採点業務を支援するアプリケーション。
 
 #### ブラウザ拡張
@@ -107,6 +109,7 @@
 ### PaperCut MF
 
 #### CLI
+
 - ~[Papercut-Submit (終了)](https://github.com/kajyuuen/Papercut-Submit)~ - 全学計算機のプリンタにファイルをアップロードするスクリプト。
 - ~[utprint (終了)](https://github.com/qqpann/utprint)~ - 全学計算機PaperCut Printのコマンドラインツール、Node.js版。
 - ~[tsukuba-me](https://github.com/qqpann/tsukuba-me)~ Univ. of Tsukuba utils: Manama attend, and Zengaku Printer Upload (PaperCut). [npm](https://www.npmjs.com/package/tsukuba-me)
@@ -114,12 +117,15 @@
 ### TWINS
 
 #### CLI
+
 - ~[twins (長期間未更新)](https://github.com/coins13/twins)~ -  Command-line interface to TWINS。
 
 #### Webサービス・Webサイト
+
 - [twins-notification](https://github.com/shuuji3/twins-notification) - 筑波大学のTwinsの掲示板のお知らせを通知してくれるプログラム。
 
 #### ブラウザ拡張
+
 - [Put kdb link to twins subjects (Chrome)](https://chrome.google.com/webstore/detail/put-kdb-link-to-twins-sub/ddamljpbkecmjljapdkpepibancdiljd) - twinsの科目番号をシラバス（KDB）へのリンクにする。
 - [TWINS Enhanced (Userscript)](https://github.com/mkobayashime/twins-enhanced) - しばらく操作しないときにtwinsから自動ログインされるのを防ぐ。
 - [userscript-twins-insert-article-url-button (Userscript)](https://github.com/shuuji3/userscript-twins-insert-article-url-button) - 筑波大学のtwinsに「個別のお知らせページを開くボタン」と「他人と共有できるURLをコピーするボタン」を追加するスクリプト。
@@ -135,12 +141,14 @@
 ### 履修スケジュール確認
 
 #### アプリ
+
 - [Twin:te (iOS, Android)](https://www.twinte.net/) - 筑波大生専用時間割アプリ。PCからログインも行える。
 
 #### Webサービス・Webサイト
-  - [Twinkle](https://app.twinkle.nandenjin.com/) - 履修している授業を登録すると、Googleカレンダーと連携し授業の予定を自動登録してくれる。
-  - [TwinCal](https://cal.tsukuba.io/) - 履修している授業を登録すると、カレンダーファイル（.ics）を出力でき、GoogleカレンダーやAppleカレンダーなどにインポートできる。
-  - [TwinC](https://mimori256.github.io/twinc/#/) - 履修している授業を登録すると、カレンダーファイル（.ics）を出力でき、GoogleカレンダーやAppleカレンダーなどにインポートできる。
+
+- [Twinkle](https://app.twinkle.nandenjin.com/) - 履修している授業を登録すると、Googleカレンダーと連携し授業の予定を自動登録してくれる。
+- [TwinCal](https://cal.tsukuba.io/) - 履修している授業を登録すると、カレンダーファイル（.ics）を出力でき、GoogleカレンダーやAppleカレンダーなどにインポートできる。
+- [TwinC](https://mimori256.github.io/twinc/#/) - 履修している授業を登録すると、カレンダーファイル（.ics）を出力でき、GoogleカレンダーやAppleカレンダーなどにインポートできる。
 
 ### 卒業要件、移行要件確認
 
@@ -183,7 +191,6 @@
 - [筑波大学新歓Web](https://www.stb.tsukuba.ac.jp/~shinkan-web/) -  筑波大学のサークル等の団体の情報をまとめたポータルサイト。 [ソース](https://github.com/tsukuba-shinkan)
 - ~[桐の葉(終了)](https://github.com/himkt/kirinoha)~ - 科目検索サービス。
 
-
 #### アプリケーション
 
 - ~[Tsukuba mate(終了)](https://github.com/MuShare/Tsukuba-iOS)~ - 筑波大生向けのフリマアプリ。
@@ -196,6 +203,7 @@
 - [twinkle-parser (npm)](https://www.npmjs.com/package/twinkle-parser) - Parse CSV from `https://kdb.tsukuba.ac.jp` to structured JSON.
 
 ### その他
+
 - [ITF-Dic](https://github.com/nandenjin/itfdic) - MeCabで利用できる、筑波大学の独自語を自然言語解析辞書にまとめたもの。
 - ~[twins-core (npm, 終了)](https://www.npmjs.com/package/twins-core)~ - Wrapper API Client of TWINS.
 
@@ -204,33 +212,43 @@
 ### アドベントカレンダー
 
 #### 2021
+
 - [筑波大学 Advent Calendar 2021](https://adventar.org/calendars/6472)
 - [mast Advent Calendar 2021](https://adventar.org/calendars/6614)
 - [klis Advent Calendar 2021](https://adventar.org/calendars/6617)
 
 #### 2020
+
 - [coins20 Advent Calendar 2020](https://adventar.org/calendars/6010)
 
 ### トークイベント・LT会
 
 #### mastLT
-  - [mastLT #2](https://togetter.com/li/296599)
-  - [mastLT #5](https://ko31.github.io/atnd-archive/event/49644.html)
-  - [mastLT #6](https://togetter.com/li/818833)
-  - [mastLT #7](https://twipla.jp/events/211202)
+
+- [mastLT #2](https://togetter.com/li/296599)
+- [mastLT #5](https://ko31.github.io/atnd-archive/event/49644.html)
+- [mastLT #6](https://togetter.com/li/818833)
+- [mastLT #7](https://twipla.jp/events/211202)
+
 #### coinsLT
-  - [coinsLT 0](https://atnd.org/events/51236)
-  - [coinsLT 1](https://connpass.com/event/10073/)
-  - [coinsLT 10](https://connpass.com/event/10782/)
-  - [coinsLT 11](https://coinslt.connpass.com/event/17415/)
-  - [coinsLT 110](https://connpass.com/event/152289/)
-  - [coinsLT 111](https://connpass.com/event/173974/)
+
+- [coinsLT 0](https://atnd.org/events/51236)
+- [coinsLT 1](https://connpass.com/event/10073/)
+- [coinsLT 10](https://connpass.com/event/10782/)
+- [coinsLT 11](https://coinslt.connpass.com/event/17415/)
+- [coinsLT 110](https://connpass.com/event/152289/)
+- [coinsLT 111](https://connpass.com/event/173974/)
+
 #### esysLT
-  - [esysLT #1](https://togetter.com/li/661516)
-  - [esysLT #2](https://togetter.com/li/730719)
-  - [esysLT #3](https://togetter.com/li/822356)
+
+- [esysLT #1](https://togetter.com/li/661516)
+- [esysLT #2](https://togetter.com/li/730719)
+- [esysLT #3](https://togetter.com/li/822356)
+
 #### ITF.競プロCTF勉強会
-  - [第二回](https://atnd.org/events/73804)
+
+- [第二回](https://atnd.org/events/73804)
+
 #### その他
 
 - [情つくば](https://twitter.com/inftsukuba) [Youtube](https://www.youtube.com/channel/UCgNjwsxZCf4EInQuu06ZuUA)
@@ -245,28 +263,30 @@
 - [筑波大学附属図書館 / 新着資料非公式Bot @tulipsnewbooks](https://twitter.com/tulipsnewbooks) - 図書館の新着資料を自動投稿する。[ソース](https://github.com/eggplants/nowlibcraw)
 - ~[ITF.授業通知bot @itf_notify (更新停止)](https://github.com/himkt/bulletin_bot)~ - 筑波大学・大学院の授業に関する掲示をTwitterでお知らせするBot。[ソース](https://github.com/himkt/bulletin_bot)
 
-
 ### フィード・RSS
 
 #### 全学生向け
-  - [Twins掲示板 在学生へのお知らせ](https://mkobayashime.github.io/twins-announcements/twins-announcements-atom1.xml)
-  - [筑波大学 公式サイト ニュース](https://www.tsukuba.ac.jp/news/rss)
-  - [筑波大学 情報環境機構 学術情報メディアセンター](https://www.cc.tsukuba.ac.jp/wp/feed/)
-  - [筑波大学保健管理センター](https://www.hokekan.tsukuba.ac.jp/feed)
-  - [筑波大学厚生会 福利厚生施設案内](https://kosei.sec.tsukuba.ac.jp/feed/)
-  - [筑波大学体育センター](https://www.sapec.tsukuba.ac.jp/?feed=rss2)
-  - [全学計算機システム](https://www.u.tsukuba.ac.jp/feed/)
+
+- [Twins掲示板 在学生へのお知らせ](https://mkobayashime.github.io/twins-announcements/twins-announcements-atom1.xml)
+- [筑波大学 公式サイト ニュース](https://www.tsukuba.ac.jp/news/rss)
+- [筑波大学 情報環境機構 学術情報メディアセンター](https://www.cc.tsukuba.ac.jp/wp/feed/)
+- [筑波大学保健管理センター](https://www.hokekan.tsukuba.ac.jp/feed)
+- [筑波大学厚生会 福利厚生施設案内](https://kosei.sec.tsukuba.ac.jp/feed/)
+- [筑波大学体育センター](https://www.sapec.tsukuba.ac.jp/?feed=rss2)
+- [全学計算機システム](https://www.u.tsukuba.ac.jp/feed/)
 
 #### イベント
-  - [筑波大学 スポーツデー](https://www.spoday.info/feed/)
-  - [中央アジア・日本人材育成プロジェクト](https://centralasia.jinsha.tsukuba.ac.jp/feed)
-  - [筑波大学スチューデントサポートセンター](https://ssc.sec.tsukuba.ac.jp/feed)
+
+- [筑波大学 スポーツデー](https://www.spoday.info/feed/)
+- [中央アジア・日本人材育成プロジェクト](https://centralasia.jinsha.tsukuba.ac.jp/feed)
+- [筑波大学スチューデントサポートセンター](https://ssc.sec.tsukuba.ac.jp/feed)
 
 #### その他
-  - [筑波大学基金](https://futureship.sec.tsukuba.ac.jp/news/rss)
-  - [筑波大学学生相談室](https://soudan.sec.tsukuba.ac.jp/feed)
-  - [筑波大学　オープンファシリティー推進機構](https://openfacility.sec.tsukuba.ac.jp/public/feed/)
-  - [筑波大学 春日地区クラス代表者会議](https://www.stb.tsukuba.ac.jp/~kasuga-campus/feed)
+
+- [筑波大学基金](https://futureship.sec.tsukuba.ac.jp/news/rss)
+- [筑波大学学生相談室](https://soudan.sec.tsukuba.ac.jp/feed)
+- [筑波大学　オープンファシリティー推進機構](https://openfacility.sec.tsukuba.ac.jp/public/feed/)
+- [筑波大学 春日地区クラス代表者会議](https://www.stb.tsukuba.ac.jp/~kasuga-campus/feed)
 
 ## 学生団体・サークル・有志など
 
