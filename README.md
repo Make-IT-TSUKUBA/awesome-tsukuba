@@ -104,7 +104,8 @@
 - [Tsukuba-syllabus (Chrome)](https://chrome.google.com/webstore/detail/tsukuba-syllabus/jplphmfnjbhjiibolbkbadnnjmoipjeb) - manabaのコースページにシラバス（KDB）へのリンクを追加する。
 - [modern-manaba (Chrome)](https://chrome.google.com/webstore/detail/modern-manaba/oimcohooopcpjnmdgijjicdhkifopbli) - manabaのUIを変更し、使いやすさを向上させる。
 - [Hide unsubmitted reports on Manaba (Chrome)](https://chrome.google.com/webstore/detail/hide-unsubmitted-reports/mgacphidgkikglalmfcfhebhppokoeim) - manaba上の'未提出課題'から任意の課題を隠す拡張機能。
-- [self-esteem (Chrome)](https://github.com/yudukikun5120/self-esteem) - manabaの成績ページで相対位置をパーセントで表示する。- [Manaba Local Time (Userscript)](https://github.com/onokatio/manaba-local-time) - manabaにJSTと共にブラウザの現地時刻を併記します。
+- [self-esteem (Chrome)](https://github.com/yudukikun5120/self-esteem) - manabaの成績ページで相対位置をパーセントで表示する。
+- [Manaba Local Time (Userscript)](https://github.com/onokatio/manaba-local-time) - manabaにJSTと共にブラウザの現地時刻を併記します。
 
 ### PaperCut MF
 
