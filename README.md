@@ -81,13 +81,13 @@
 
 #### CLI
 
-- [kdb-parse](https://github.com/Mimori256/kdb-parse) - kdbのデータをjsonにする。
+- [kdb-parse](https://github.com/Mimori256/kdb-parse) - KdBのデータをjsonにする。
 
 #### Webサービス・Webサイト
 
-- [KDBもどき](https://make-it-tsukuba.github.io/alternative-tsukuba-kdb/) - KDBの代替サービス。フロントエンドのみで動作する。KDBより検索が高速。
-- [sylms Explorer](https://sylms-explorer.open.coins.tsukuba.ac.jp/) - KDBの代替サービス。独自のデータベースとAPIを持っている。KDBより検索が高速。
-- [KDBシラバスミラー](https://github.com/Make-IT-TSUKUBA/alternative-tsukuba-syllabus/) - KDBが保存しているシラバスページをミラーするサイト。KDBもどきから表示できる。
+- [KdBもどき](https://make-it-tsukuba.github.io/alternative-tsukuba-kdb/) - KdBの代替サービス。フロントエンドのみで動作する。KdBより検索が高速。
+- [sylms Explorer](https://sylms-explorer.open.coins.tsukuba.ac.jp/) - KdBの代替サービス。独自のデータベースとAPIを持っている。KdBより検索が高速。
+- [KdBシラバスミラー](https://github.com/Make-IT-TSUKUBA/alternative-tsukuba-syllabus/) - KdBが保存しているシラバスページをミラーするサイト。KdBもどきから表示できる。
 
 ### manaba
 
@@ -104,8 +104,8 @@
 
 - [manaba Enhanced (Chrome)](https://chrome.google.com/webstore/detail/manaba-enhanced-for-tsuku/fldngcbchlbfgbccilklplmhljilhfch) - manabaの課題を色分けしたり、外部リンクのポップアップを消したり、コースのフィルタリングが行える。
 - [Manaba Report Integration by Twin:te (Chrome)](https://chrome.google.com/webstore/detail/manaba-report-integration/gbcijpgbppbphpikpdohpgmpcgdemnai?hl=ja) - manabaの課題をGoogle TasksやTrelloと同期できる。
-- [manaba2kdb (Chrome)](https://chrome.google.com/webstore/detail/manaba2kdb/ladninjcfokoplngpcmlfkijickcoanc) - manabaの科目番号をシラバス（KDB）へのリンクにする。
-- [Tsukuba-syllabus (Chrome)](https://chrome.google.com/webstore/detail/tsukuba-syllabus/jplphmfnjbhjiibolbkbadnnjmoipjeb) - manabaのコースページにシラバス（KDB）へのリンクを追加する。
+- [manaba2kdb (Chrome)](https://chrome.google.com/webstore/detail/manaba2kdb/ladninjcfokoplngpcmlfkijickcoanc) - manabaの科目番号をシラバス（KdB）へのリンクにする。
+- [Tsukuba-syllabus (Chrome)](https://chrome.google.com/webstore/detail/tsukuba-syllabus/jplphmfnjbhjiibolbkbadnnjmoipjeb) - manabaのコースページにシラバス（KdB）へのリンクを追加する。
 - [modern-manaba (Chrome)](https://chrome.google.com/webstore/detail/modern-manaba/oimcohooopcpjnmdgijjicdhkifopbli) - manabaのUIを変更し、使いやすさを向上させる。
 - [Hide unsubmitted reports on Manaba (Chrome)](https://chrome.google.com/webstore/detail/hide-unsubmitted-reports/mgacphidgkikglalmfcfhebhppokoeim) - manaba上の'未提出課題'から任意の課題を隠す拡張機能。
 - [self-esteem (Chrome)](https://github.com/yudukikun5120/self-esteem) - manabaの成績ページで相対位置をパーセントで表示する。
@@ -131,7 +131,7 @@
 
 #### ブラウザ拡張
 
-- [Put kdb link to twins subjects (Chrome)](https://chrome.google.com/webstore/detail/put-kdb-link-to-twins-sub/ddamljpbkecmjljapdkpepibancdiljd) - twinsの科目番号をシラバス（KDB）へのリンクにする。
+- [Put kdb link to twins subjects (Chrome)](https://chrome.google.com/webstore/detail/put-kdb-link-to-twins-sub/ddamljpbkecmjljapdkpepibancdiljd) - twinsの科目番号をシラバス（KdB）へのリンクにする。
 - [TWINS Enhanced (Userscript)](https://github.com/mkobayashime/twins-enhanced) - しばらく操作しないときにtwinsから自動ログインされるのを防ぐ。
 - [userscript-twins-insert-article-url-button (Userscript)](https://github.com/shuuji3/userscript-twins-insert-article-url-button) - 筑波大学のtwinsに「個別のお知らせページを開くボタン」と「他人と共有できるURLをコピーするボタン」を追加するスクリプト。
 
