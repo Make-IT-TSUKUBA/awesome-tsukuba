@@ -127,7 +127,7 @@
 
 #### Webサービス・Webサイト
 
-- [twins-notification](https://github.com/shuuji3/twins-notification) - 筑波大学のTwinsの掲示板のお知らせを通知してくれるプログラム。
+- [twins-notification](https://github.com/shuuji3/twins-notification) - 筑波大学のTwinsの掲示板のお知らせをSlackに通知してくれるプログラム。
 
 #### ブラウザ拡張
 
