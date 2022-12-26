@@ -161,6 +161,7 @@
 
 - [筑波大学 総合学域群 移行要件チェックツール](https://boke.itsu.dev/scs-migration-checker/) - 総合学域群から他学科への移行要件をチェックできるツール。
 - [そつぎょうできるかな](https://oshamashama.github.io/g-checker-for-itf/) - twinsからエクスポートしたcsvを読み込み、卒業や進級の履修要件に沿って単位修得ができているか確認できるツール。
+- [卒業要件チェッカー](https://mimori256.github.io/Graduation-Checker/) - TWINS の成績データから、筑波大学の卒業要件を満たしているかどうか確認するツール。
 
 #### アプリ
 
