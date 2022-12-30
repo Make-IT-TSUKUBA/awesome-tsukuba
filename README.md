@@ -123,6 +123,7 @@
 
 #### CLI
 
+- [twins2mkdir](https://github.com/yudukikun5120/twins2mkdir) - TWINS の履修科目を表す CSV ファイルから，科目ごとにディレクトリを作成するシェルスクリプト。
 - ~[twins (長期間未更新)](https://github.com/coins13/twins)~ -  Command-line interface to TWINS。
 
 #### Webサービス・Webサイト
