@@ -1,15 +1,15 @@
 # Awesome Tsukuba
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Lint](
-  https://github.com/Make-IT-TSUKUBA/awesome-tsukuba/actions/workflows/lint.yml/badge.svg
-)](
-  https://github.com/Make-IT-TSUKUBA/awesome-tsukuba/actions/workflows/lint.yml
-) [![pages-build-deployment](
-  https://github.com/Make-IT-TSUKUBA/awesome-tsukuba/actions/workflows/pages/pages-build-deployment/badge.svg
-)](
-  https://github.com/Make-IT-TSUKUBA/awesome-tsukuba/actions/workflows/pages/pages-build-deployment
-)
+[![Awesome badge]][Awesome] [![Lint badge]][Lint] [![Deployment badge]][Deployment]
+
+[Awesome]: <https://awesome.re>
+[Awesome badge]: <https://awesome.re/badge.svg>
+
+[Lint]: <https://github.com/Make-IT-TSUKUBA/awesome-tsukuba/actions/workflows/lint.yml>
+[Lint badge]: <https://github.com/Make-IT-TSUKUBA/awesome-tsukuba/actions/workflows/lint.yml/badge.svg>
+
+[Deployment]: <https://github.com/Make-IT-TSUKUBA/awesome-tsukuba/actions/workflows/pages/pages-build-deployment>
+[Deployment badge]: <https://github.com/Make-IT-TSUKUBA/awesome-tsukuba/actions/workflows/pages/pages-build-deployment/badge.svg>
 
 筑波大学に関連する便利なツール・サイト・スマホアプリなどをまとめています。
 プルリクエストは歓迎です。自分のプロジェクトを掲載されたくない、消して欲しいなどの要望があればすぐに対応します。
