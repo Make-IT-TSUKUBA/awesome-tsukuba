@@ -72,6 +72,7 @@
 - [SPSS サイトライセンス](https://www.cc.tsukuba.ac.jp/wp/service/sl/spss/) - 統計解析ソフトウェアの有償ライセンスが無料で利用できる。
 - [Mathematica サイトライセンス](https://www.cc.tsukuba.ac.jp/wp/service/sl/mathematica/) - Mathematica for Studentsが無料で利用できる。
 - [Microsoft 製品 (EES 特典：個人使用)](https://www.cc.tsukuba.ac.jp/wp/service/sl/ees/tokuten/) - Microsoft Officeが無料でインストールできる。
+- [Microsoft Azure Dev Tools for Teaching](https://www.cc.tsukuba.ac.jp/wp/service/sl/ees/microsoft_azuredevtools/) - Windows 11やVisual Studio Enterpriseなどが無料で利用できる。
 - [MS Surface](https://www.cc.tsukuba.ac.jp/wp/service/surface/) - Surfaceを割引価格で購入できる。
 - [Apple On Campus (AOC)](https://www.cc.tsukuba.ac.jp/wp/service/apple-on-campus/) - Apple製品を割引価格で購入できる。
 
