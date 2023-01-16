@@ -157,6 +157,10 @@
 - [TwinCal](https://cal.tsukuba.io/) - 履修している授業を登録すると、カレンダーファイル（.ics）を出力でき、GoogleカレンダーやAppleカレンダーなどにインポートできる。
 - [TwinC](https://mimori256.github.io/twinc/#/) - 履修している授業を登録すると、カレンダーファイル（.ics）を出力でき、GoogleカレンダーやAppleカレンダーなどにインポートできる。
 
+### CLI
+
+- [twinc-cli](https://github.com/yudukikun5120/twinc-cli) - TwinCのcommand-lineバージョン。
+
 ### 卒業要件、移行要件確認
 
 #### Webサービス・Webサイト
