@@ -125,6 +125,7 @@
 #### CLI
 
 - [twins2mkdir](https://github.com/yudukikun5120/twins2mkdir) - TWINS の履修科目を表す CSV ファイルから，科目ごとにディレクトリを作成するシェルスクリプト。
+- [gpa_klis.py](https://gist.github.com/eniehack/f3aff92cff4ee86a7c1ba337073b8869) -  TWINSで生成されたCSVからGPAを計算するツール。klis用。
 - ~[twins (長期間未更新)](https://github.com/coins13/twins)~ -  Command-line interface to TWINS。
 
 #### Webサービス・Webサイト
