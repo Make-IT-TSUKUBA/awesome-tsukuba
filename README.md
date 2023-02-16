@@ -313,11 +313,14 @@
 - [筑波大学を便利にする会](https://mit.tsukuba.me/)
 - [open-coins](https://www.open.coins.tsukuba.ac.jp/) - 学類の使わなくなった古い計算資源を用いてサービスを提供する団体。学類共同マシンの起動中OSをオンラインで確認できるサービスなどがある。
 - [全代会 総務委員会 情報部門](https://www.stb.tsukuba.ac.jp/~zdk/home/committee_gen)
+- 全代会 情報処理推進特別委員会
+  - UNTIL
 - [筑波大学学園祭実行委員会 情報メディアシステム局](https://sohosai.com/committee)
 - [筑波大学情報科学類誌 WORD編集部](https://www.word-ac.net/)
 - [情つくば](https://twitter.com/inftsukuba)
 - [OpenEsys](https://ayu.open.esys.tsukuba.ac.jp/)
 - [AC部屋](http://www.ac-room.org/)
+- Tsukuba System Programming Enthusiasts - システムプログラミングに関するコミュニティ。筑波大学のDiscord Student Hubから参加できる。
 - ~[COINS Project(終了)](https://web.archive.org/web/http://coins-p.cs.tsukuba.ac.jp/)~ - coins学生によるサービス開発グループのサイト。
 
 ## 講義
