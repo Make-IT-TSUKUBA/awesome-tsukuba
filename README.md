@@ -224,8 +224,8 @@
 ## SNS
 
 - Misskeyインスタンス
-  - https://misskey.until.tsukuba.one/
-  - https://tsukubaskey.com/
+  - [misskey.until.tsukuba.one](https://misskey.until.tsukuba.one)
+  - [tsukubaskey.com](https://tsukubaskey.com)
 
 ## イベント
 
