@@ -34,6 +34,7 @@
   - 交通機関
   - その他
 - ライブラリ・モジュール・パッケージ
+- SNS
 - イベント
   - アドベントカレンダー
   - トークイベント・LT会
@@ -219,6 +220,12 @@
 
 - [ITF-Dic](https://github.com/nandenjin/itfdic) - MeCabで利用できる、筑波大学の独自語を自然言語解析辞書にまとめたもの。
 - ~[twins-core (npm, 終了)](https://www.npmjs.com/package/twins-core)~ - Wrapper API Client of TWINS.
+
+## SNS
+
+- Misskeyインスタンス
+  - https://misskey.until.tsukuba.one/
+  - https://tsukubaskey.com/
 
 ## イベント
 
