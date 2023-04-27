@@ -111,6 +111,7 @@
 - [modern-manaba (Chrome)](https://chrome.google.com/webstore/detail/modern-manaba/oimcohooopcpjnmdgijjicdhkifopbli) - manabaのUIを変更し、使いやすさを向上させる。
 - [Hide unsubmitted reports on Manaba (Chrome)](https://chrome.google.com/webstore/detail/hide-unsubmitted-reports/mgacphidgkikglalmfcfhebhppokoeim) - manaba上の'未提出課題'から任意の課題を隠す拡張機能。
 - [Manaba Local Time (Userscript)](https://github.com/onokatio/manaba-local-time) - manabaにJSTと共にブラウザの現地時刻を併記します。
+- [M TimeTable](https://github.com/slimalized/M-TimeTable) - 筑波大学のmanabaの各コースへのリンクを時間割形式に配置するブラウザ拡張。[Chrome拡張](https://chrome.google.com/webstore/detail/m-timetable/jmfoeljnikfibijlkhmjgpjkdendagab)。
 - ~[self-esteem (Chrome)](https://github.com/yudukikun5120/self-esteem)~ - manabaの成績ページで相対位置をパーセントで表示する。manaba Enhancedに統合されたため開発は終了した。
 
 ### PaperCut MF
