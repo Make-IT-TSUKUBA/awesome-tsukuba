@@ -270,6 +270,7 @@
 - [coinsLT 11](https://coinslt.connpass.com/event/17415/)
 - [coinsLT 110](https://connpass.com/event/152289/)
 - [coinsLT 111](https://connpass.com/event/173974/)
+- [coinsLT 1000](https://amakubo.connpass.com/event/288675/)
 
 #### esysLT
 
