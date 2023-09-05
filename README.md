@@ -84,12 +84,16 @@
 #### CLI
 
 - [kdb-parse](https://github.com/Mimori256/kdb-parse) - KdBのデータをjsonにする。
+- [kdb-crawler](https://github.com/s7tya/kdb-crawler) - KdBの提供するcsvを機械可読性を高めたJSONに変換する。このプログラムによって生成されたJSONはGitHubからも参照できる。Rust製。
+- [twinkle-parser](https://github.com/nandenjin/twinkle-parser) - KdBの提供するcsvを機械可読性を高めたJSONに変換する。ライブラリとしても利用可能。TypeScript製。
+- [kdb2-crawler](https://github.com/until-tsukuba/kdb2-crawler) - LdBの提供するcsvやHTMLをJSONへ変換するツール群。Golang製。
 
 #### Webサービス・Webサイト
 
 - [KdBもどき](https://make-it-tsukuba.github.io/alternative-tsukuba-kdb/) - KdBの代替サービス。フロントエンドのみで動作する。KdBより検索が高速。
 - [sylms Explorer](https://sylms-explorer.open.coins.tsukuba.ac.jp/) - KdBの代替サービス。独自のデータベースとAPIを持っている。KdBより検索が高速。
 - [KdBシラバスミラー](https://github.com/Make-IT-TSUKUBA/alternative-tsukuba-syllabus/) - KdBが保存しているシラバスページをミラーするサイト。KdBもどきから表示できる。
+- [KdB2](https://kdb2.tsukuba.one/) - KdBの代替サービス。シラバスを参照、検索するためのREST APIを持つ。[オープンソース](https://github.com/until-tsukuba/kdb2-server)。
 
 ### manaba
 
