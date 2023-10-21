@@ -86,7 +86,7 @@
 - [kdb-parse](https://github.com/Mimori256/kdb-parse) - KdBのデータをjsonにする。
 - [kdb-crawler](https://github.com/s7tya/kdb-crawler) - KdBの提供するcsvを機械可読性を高めたJSONに変換する。このプログラムによって生成されたJSONはGitHubからも参照できる。Rust製。
 - [twinkle-parser](https://github.com/nandenjin/twinkle-parser) - KdBの提供するcsvを機械可読性を高めたJSONに変換する。ライブラリとしても利用可能。TypeScript製。
-- [kdb2-crawler](https://github.com/until-tsukuba/kdb2-crawler) - LdBの提供するcsvやHTMLをJSONへ変換するツール群。Golang製。
+- [kdb2-crawler](https://github.com/until-tsukuba/kdb2-crawler) - KdBの提供するcsvやHTMLをJSONへ変換するツール群。Golang製。
 
 #### Webサービス・Webサイト
 
