@@ -200,6 +200,11 @@
 - ~[iTsukuba(終了)](https://app-liv.jp/1399122/)~ - 時間割の管理やバスの時刻表がわかるアプリ。
 - ~[つくポン(終了)](https://iphone.308413110.com/ranking/detail/828517891/)~ - 大学の時刻表や当日の天気、授業開始時刻のカウントダウンができるアプリ。
 
+### 生活
+
+- ~[tsukuba-gc (長期間未更新)](https://github.com/ysakasin/tsukuba-gc)~ - つくば市のゴミ収集カレンダーをJSONで出力する
+- ~[tsukuba-gc-lite (長期間未更新)](https://github.com/ysakasin/tsukuba-gc-lite)~ - つくば市のゴミ収集カレンダーをicalで出力する
+
 ### その他
 
 #### Webサービス・Webサイト
