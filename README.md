@@ -335,8 +335,8 @@
 
 - [筑波大学を便利にする会](https://mit.tsukuba.me/)
 - [open-coins](https://www.open.coins.tsukuba.ac.jp/) - 学類の使わなくなった古い計算資源を用いてサービスを提供する団体。学類共同マシンの起動中OSをオンラインで確認できるサービスなどがある。
-- [全代会 総務委員会 情報部門](https://www.stb.tsukuba.ac.jp/~zdk/home/committee_gen)
-- 全代会 情報処理推進特別委員会
+- [全代会 総務委員会 情報部門](https://www.stb.tsukuba.ac.jp/~zdk/committee-general-affairs)
+- [全代会 情報処理推進特別委員会](https://www.stb.tsukuba.ac.jp/~zdk/ipc)
   - UNTIL
 - [筑波大学学園祭実行委員会 情報メディアシステム局](https://sohosai.com/committee)
 - [筑波大学情報科学類誌 WORD編集部](https://www.word-ac.net/)
