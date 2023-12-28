@@ -245,6 +245,32 @@
 
 ### アドベントカレンダー
 
+#### 2023
+
+参考: [筑波大関連アドベントカレンダーまとめ2023](https://hackmd.io/@fcBHSyQ9RWyzkonRCnIVTQ/ByAVvxG4p)
+
+##### 学群・学類
+- [筑波大学人文・文化学群 Advent Calendar 2023](https://adventar.org/calendars/9196)
+- [比文のひとびと Advent Calendar 2023](https://adventar.org/calendars/9220)
+- [（主に）生物学類生の群れ Advent Calendar 2023](https://adventar.org/calendars/9248)
+- [理工学群など Advent Calendar 2023](https://adventar.org/calendars/9251)
+- [coins Advent Calendar 2023](https://adventar.org/calendars/9226)
+- [mast Advent Calendar 2023](https://adventar.org/calendars/9098)
+- [klis（筑波大学情報学群知識情報・図書館学類） Advent Calendar 2023](https://adventar.org/calendars/8957)
+- [芸専の思想 Advent Calendar 2023](https://adventar.org/calendars/9282)
+
+##### サークル（学生団体）
+- [ねおぽりすアドベントカレンダー部2023 Advent Calendar 2023](https://adventar.org/calendars/9201)
+- [吹団あどべんとかれんだー Advent Calendar 2023](https://adventar.org/calendars/9221)
+- [TKBGSK（筑波大学現代視覚文化研究会） Advent Calendar 2023](https://adventar.org/calendars/9312)
+- [つくばフォーク村アドベントカレンダー2023 Advent Calendar 2023](https://adventar.org/calendars/9317)
+
+##### その他
+- [298production Advent Calendar 2023](https://adventar.org/calendars/9079)
+- [筑波NSミライラボのカレンダー | Advent Calendar 2023](https://qiita.com/advent-calendar/2023/tsukuba-ns-mirailabo)
+- [天久保 Advent Calendar 2023](https://adventar.org/calendars/8938)
+- [ITF.20生クソツイ集 Advent Calendar 2023](https://adventar.org/calendars/9230)
+
 #### 2022
 
 - [mast Advent Calendar 2022](https://adventar.org/calendars/8006)
