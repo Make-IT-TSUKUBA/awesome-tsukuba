@@ -206,6 +206,7 @@
 
 - ~[tsukuba-gc (長期間未更新)](https://github.com/ysakasin/tsukuba-gc)~ - つくば市のゴミ収集カレンダーをJSONで出力する
 - ~[tsukuba-gc-lite (長期間未更新)](https://github.com/ysakasin/tsukuba-gc-lite)~ - つくば市のゴミ収集カレンダーをicalで出力する
+- [つくば市ゴミ出しカレンダー](https://garbage-calendar.tsukuba.page/) - つくば市のゴミ収集カレンダーをiCalendar形式で出力する
 
 ### その他
 
