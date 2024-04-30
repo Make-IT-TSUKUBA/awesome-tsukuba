@@ -118,6 +118,8 @@
 - [manaba未提出課題を隠す (Chrome)](https://chrome.google.com/webstore/detail/manaba%E6%9C%AA%E6%8F%90%E5%87%BA%E8%AA%B2%E9%A1%8C%E3%82%92%E9%9A%A0%E3%81%99/jaenngkigiiphcijdfeamkfnpclopfbi) - 未提出課題一覧の任意の課題を隠す
 - [Manaba Local Time (Userscript)](https://github.com/onokatio/manaba-local-time) - manabaにJSTと共にブラウザの現地時刻を併記します。
 - [M TimeTable](https://github.com/slimalized/M-TimeTable) - 筑波大学のmanabaの各コースへのリンクを時間割形式に配置するブラウザ拡張。[Chrome拡張](https://chrome.google.com/webstore/detail/m-timetable/jmfoeljnikfibijlkhmjgpjkdendagab)。
+- [Manaba24 for Tsukuba (Chrome)](https://chromewebstore.google.com/detail/lclihomnbcnjabamalgdeelhlkgjdcgf) - Manabaの締切時間表示を0:00ではなく前日の24:00に変更します。
+- [Manabaedge for Tsukuba (Chrome)](https://chromewebstore.google.com/detail/manabadge-for-tsukuba/llngngnaoofnfekodekfgobkabdlfmbp) - Manabaの未提出課題の数を表示します。
 - ~[self-esteem (Chrome)](https://github.com/yudukikun5120/self-esteem)~ - manabaの成績ページで相対位置をパーセントで表示する。manaba Enhancedに統合されたため開発は終了した。
 
 ### PaperCut MF
