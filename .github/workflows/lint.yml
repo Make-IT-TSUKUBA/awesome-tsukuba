@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Lint with markdownlint
         uses: articulate/actions-markdownlint@v1
         with:
