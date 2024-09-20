@@ -147,6 +147,7 @@
 - [Put kdb link to twins subjects (Chrome)](https://chrome.google.com/webstore/detail/put-kdb-link-to-twins-sub/ddamljpbkecmjljapdkpepibancdiljd) - twinsの科目番号をシラバス（KdB）へのリンクにする。
 - [TWINS Enhanced (Userscript)](https://github.com/mkobayashime/twins-enhanced) - しばらく操作しないときにtwinsから自動ログインされるのを防ぐ。
 - [userscript-twins-insert-article-url-button (Userscript)](https://github.com/shuuji3/userscript-twins-insert-article-url-button) - 筑波大学のtwinsに「個別のお知らせページを開くボタン」と「他人と共有できるURLをコピーするボタン」を追加するスクリプト。
+- [Advanced-Twins (Userscript)](https://github.com/refiaa/Advanced-Twins) - Twinsの機能を拡張し、履修登録・削除、科目検索、シラバス確認などを改善するスクリプト。
 
 ### Tulips
 
