@@ -17,6 +17,6 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
       - name: Lint with markdownlint
-        uses: articulate/actions-markdownlint@v1
+        uses: DavidAnson/markdownlint-cli2-action@v17
         with:
-          config: .github/mdl-config.json
+          config: .github/.markdownlint.json
