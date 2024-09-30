@@ -20,3 +20,10 @@ jobs:
         uses: DavidAnson/markdownlint-cli2-action@v17
         with:
           config: .github/.markdownlint.json
+      - name: Check links
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          use-quiet-mode: 'yes'
+          use-verbose-mode: 'yes'
+          config-file: '.github/.mlc_config.json'
+          max-depth: 2
