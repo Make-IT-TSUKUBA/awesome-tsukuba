@@ -9,6 +9,6 @@
         "siblings_only": true
     },
     "MD033": {
-        "allowed_elements": ["details", "s", "summary"]
+        "allowed_elements": ["s"]
     }
 }
