@@ -165,7 +165,7 @@
 
 #### Webサービス・Webサイト
 
-- [Twinkle](https://app.twinkle.nandenjin.com/) - 履修している授業を登録すると、Googleカレンダーと連携し授業の予定を自動登録してくれる。
+- [Twinkle](https://twinkle.tsukuba.one/) - 履修している授業を登録すると、Googleカレンダーと連携し授業の予定を自動登録してくれる。
 - ~[TwinCal(終了)](https://cal.tsukuba.io/)~ - 履修している授業を登録すると、カレンダーファイル（.ics）を出力でき、GoogleカレンダーやAppleカレンダーなどにインポートできる。
 - [TwinC](https://mimori256.github.io/twinc/#/) - 履修している授業を登録すると、カレンダーファイル（.ics）を出力でき、GoogleカレンダーやAppleカレンダーなどにインポートできる。
 
