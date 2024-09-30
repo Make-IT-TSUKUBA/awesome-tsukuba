@@ -244,7 +244,7 @@
 ##### その他
 
 - [298production Advent Calendar 2023](https://adventar.org/calendars/9079)
-- [筑波NSミライラボのカレンダー | Advent Calendar 2023](https://qiita.com/advent-calendar/2023/tsukuba-ns-mirailabo)
+- [筑波NSミライラボ Advent Calendar 2023](https://qiita.com/advent-calendar/2023/tsukuba-ns-mirailabo)
 - [天久保 Advent Calendar 2023](https://adventar.org/calendars/8938)
 - [ITF.20生クソツイ集 Advent Calendar 2023](https://adventar.org/calendars/9230)
 
