@@ -231,7 +231,7 @@
 ### KdB
 
 - [twinte-parser (npm)](https://www.npmjs.com/package/twinte-parser) - Twinte内部で利用するために開発された KdB のパーサー。
-- [twinkle-parser (npm)](https://www.npmjs.com/package/twinkle-parser) - KdB のダウンロードデータを JSON に変換するためのパーサー。[Twinkle](https://app.twinkle.nandenjin.com/) のメンテナンスに利用されているツールを公開したもの。
+- [twinkle-parser (npm)](https://www.npmjs.com/package/twinkle-parser) - KdB のダウンロードデータを JSON に変換するためのパーサー。[Twinkle](https://twinkle.tsukuba.one/) のメンテナンスに利用されているツールを公開したもの。
 
 ### その他
 
