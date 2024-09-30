@@ -100,7 +100,7 @@
 #### CLI
 
 - [manaba-attend](https://github.com/shuuji3/manaba-attend) - Manabaの出席カード(respon)の提出を自動化するプログラム。
-- ~[atmnb (終了)](https://github.com/qqpann/atmnb)~ manaba出席のコマンドラインツール、Node.js版。
+- <s>[atmnb (終了)](https://github.com/qqpann/atmnb)</s> manaba出席のコマンドラインツール、Node.js版。
 
 #### GUIアプリケーション
 
@@ -120,15 +120,15 @@
 - [M TimeTable](https://github.com/slimalized/M-TimeTable) - 筑波大学のmanabaの各コースへのリンクを時間割形式に配置するブラウザ拡張。[Chrome拡張](https://chrome.google.com/webstore/detail/m-timetable/jmfoeljnikfibijlkhmjgpjkdendagab)。
 - [Manaba24 for Tsukuba (Chrome)](https://chromewebstore.google.com/detail/lclihomnbcnjabamalgdeelhlkgjdcgf) - Manabaの締切時間表示を0:00ではなく前日の24:00に変更します。
 - [Manabaedge for Tsukuba (Chrome)](https://chromewebstore.google.com/detail/manabadge-for-tsukuba/llngngnaoofnfekodekfgobkabdlfmbp) - Manabaの未提出課題の数を表示します。
-- ~[self-esteem (Chrome)](https://github.com/yudukikun5120/self-esteem)~ - manabaの成績ページで相対位置をパーセントで表示する。manaba Enhancedに統合されたため開発は終了した。
+- <s>[self-esteem (Chrome)](https://github.com/yudukikun5120/self-esteem)</s> - manabaの成績ページで相対位置をパーセントで表示する。manaba Enhancedに統合されたため開発は終了した。
 
 ### PaperCut MF
 
 #### CLI
 
-- ~[Papercut-Submit (終了)](https://github.com/kajyuuen/Papercut-Submit)~ - 全学計算機のプリンタにファイルをアップロードするスクリプト。
-- ~[utprint (終了)](https://github.com/qqpann/utprint)~ - 全学計算機PaperCut Printのコマンドラインツール、Node.js版。
-- ~[tsukuba-me](https://github.com/qqpann/tsukuba-me)~ Univ. of Tsukuba utils: Manama attend, and Zengaku Printer Upload (PaperCut). [npm](https://www.npmjs.com/package/tsukuba-me)
+- <s>[Papercut-Submit (終了)](https://github.com/kajyuuen/Papercut-Submit)</s> - 全学計算機のプリンタにファイルをアップロードするスクリプト。
+- <s>[utprint (終了)](https://github.com/qqpann/utprint)</s> - 全学計算機PaperCut Printのコマンドラインツール、Node.js版。
+- <s>[tsukuba-me](https://github.com/qqpann/tsukuba-me)</s> - Univ. of Tsukuba utils: Manama attend, and Zengaku Printer Upload (PaperCut). [npm](https://www.npmjs.com/package/tsukuba-me)
 
 ### TWINS
 
@@ -136,7 +136,7 @@
 
 - [twins2mkdir](https://github.com/yudukikun5120/twins2mkdir) - TWINS の履修科目を表す CSV ファイルから，科目ごとにディレクトリを作成するシェルスクリプト。
 - [gpa_klis.py](https://gist.github.com/eniehack/f3aff92cff4ee86a7c1ba337073b8869) -  TWINSで生成されたCSVからGPAを計算するツール。klis用。
-- ~[twins (長期間未更新)](https://github.com/coins13/twins)~ -  Command-line interface to TWINS。
+- <s>[twins (長期間未更新)](https://github.com/coins13/twins)</s> -  Command-line interface to TWINS。
 
 #### Webサービス・Webサイト
 
@@ -166,7 +166,7 @@
 #### Webサービス・Webサイト
 
 - [Twinkle](https://twinkle.tsukuba.one/) - 履修している授業を登録すると、Googleカレンダーと連携し授業の予定を自動登録してくれる。
-- ~[TwinCal(終了)](https://cal.tsukuba.io/)~ - 履修している授業を登録すると、カレンダーファイル（.ics）を出力でき、GoogleカレンダーやAppleカレンダーなどにインポートできる。
+- <s>[TwinCal(終了)](https://cal.tsukuba.io/)</s> - 履修している授業を登録すると、カレンダーファイル（.ics）を出力でき、GoogleカレンダーやAppleカレンダーなどにインポートできる。
 - [TwinC](https://mimori256.github.io/twinc/#/) - 履修している授業を登録すると、カレンダーファイル（.ics）を出力でき、GoogleカレンダーやAppleカレンダーなどにインポートできる。
 
 ### CLI
@@ -180,11 +180,11 @@
 - [筑波大学 総合学域群 移行要件チェックツール](https://boke.itsu.dev/scs-migration-checker/) - 総合学域群から他学科への移行要件をチェックできるツール。
 - [そつぎょうできるかな](https://oshamashama.github.io/g-checker-for-itf/) - twinsからエクスポートしたcsvを読み込み、卒業や進級の履修要件に沿って単位修得ができているか確認できるツール。
 - [卒業要件チェッカー](https://mimori256.github.io/Graduation-Checker/) - TWINS の成績データから、筑波大学の卒業要件を満たしているかどうか確認するツール。
-- ~[卒業要件を満たしたい(終了)](https://hiroto7.github.io/credits/)~ - 卒業要件を満たしているかどうか確認するツール。
+- <s>[卒業要件を満たしたい(終了)](https://hiroto7.github.io/credits/)</s> - 卒業要件を満たしているかどうか確認するツール。
 
 #### アプリ
 
-- ~[EscapeGoat(終了)](https://github.com/makky3939/EscapeGoat)~ - 知識情報・図書館学類生向けの卒業判定アプリ。
+- <s>[EscapeGoat(終了)](https://github.com/makky3939/EscapeGoat)</s> - 知識情報・図書館学類生向けの卒業判定アプリ。
 
 #### CLI
 
@@ -201,14 +201,14 @@
 
 - [えりたんBot (iOS, Android)](https://eritanbot.net/) - キャンパスマップや循環バスの時刻表や授業の教室検索が行えるアプリ。
 - [筑波大学 面積比較アプリ (Android)](https://play.google.com/store/apps/details?id=info.nakajimadevnakajima.tsukubaunivcompare) - 筑波大学の面積をGoogle Map上で体感できるアプリ。
-- ~[つくばモデルアプリ(終了)](https://www.newforestar.com/tsukubamodelapp/)~ - 大学循環バスの現在位置や時刻表がわかるアプリ。
-- ~[iTsukuba(終了)](https://app-liv.jp/1399122/)~ - 時間割の管理やバスの時刻表がわかるアプリ。
-- ~[つくポン(終了)](https://iphone.308413110.com/ranking/detail/828517891/)~ - 大学の時刻表や当日の天気、授業開始時刻のカウントダウンができるアプリ。
+- <s>[つくばモデルアプリ(終了)](https://www.newforestar.com/tsukubamodelapp/)</s> - 大学循環バスの現在位置や時刻表がわかるアプリ。
+- <s>[iTsukuba(終了)](https://app-liv.jp/1399122/)</s> - 時間割の管理やバスの時刻表がわかるアプリ。
+- <s>[つくポン(終了)](https://iphone.308413110.com/ranking/detail/828517891/)</s> - 大学の時刻表や当日の天気、授業開始時刻のカウントダウンができるアプリ。
 
 ### 生活
 
-- ~[tsukuba-gc (長期間未更新)](https://github.com/ysakasin/tsukuba-gc)~ - つくば市のゴミ収集カレンダーをJSONで出力する
-- ~[tsukuba-gc-lite (長期間未更新)](https://github.com/ysakasin/tsukuba-gc-lite)~ - つくば市のゴミ収集カレンダーをicalで出力する
+- <s>[tsukuba-gc (長期間未更新)](https://github.com/ysakasin/tsukuba-gc)</s> - つくば市のゴミ収集カレンダーをJSONで出力する
+- <s>[tsukuba-gc-lite (長期間未更新)](https://github.com/ysakasin/tsukuba-gc-lite)</s> - つくば市のゴミ収集カレンダーをicalで出力する
 - [つくば市ゴミ出しカレンダー](https://garbage-calendar.tsukuba.page/) - つくば市のゴミ収集カレンダーをiCalendar形式で出力する
 
 ### その他
@@ -217,14 +217,14 @@
 
 - [A+つくば](https://www.aplus-tsukuba.net/) - 講義に関するわからない点を匿名で質問でき、他の学生に回答してもらえるサービス。
 - [Klis Statistics](https://argonism.github.io/KlisStatistics/) - klisの成績分布・授業評価がグラフィカルに表示できるサイト。
-- ~[Welcoins (長期間未更新)](https://github.com/coins13/welcoins)~ - 新歓合宿および懇親会の出欠確認、出欠統計が行える簡易登録フォーム。
+- <s>[Welcoins (長期間未更新)](https://github.com/coins13/welcoins)</s> - 新歓合宿および懇親会の出欠確認、出欠統計が行える簡易登録フォーム。
 - [self-esteem Grade Millefeuille](https://yudukikun5120.github.io/self-esteem-millefeuille/) - twins からエクスポートした CSV を読み込み、自分の成績分布を視覚化する。
 - [筑波大学新歓Web](https://www.stb.tsukuba.ac.jp/~shinkan-web/) -  筑波大学のサークル等の団体の情報をまとめたポータルサイト。 [ソース](https://github.com/tsukuba-shinkan)
-- ~[桐の葉(終了)](https://github.com/himkt/kirinoha)~ - 科目検索サービス。
+- <s>[桐の葉(終了)](https://github.com/himkt/kirinoha)</s> - 科目検索サービス。
 
 #### アプリケーション
 
-- ~[Tsukuba mate(終了)](https://github.com/MuShare/Tsukuba-iOS)~ - 筑波大生向けのフリマアプリ。
+- <s>[Tsukuba mate(終了)](https://github.com/MuShare/Tsukuba-iOS)</s> - 筑波大生向けのフリマアプリ。
 - [@tsukuba-neu/sawagani](https://github.com/tsukuba-neu/sawagani/blob/dev/README.md) - 課外活動団体が提出する収支計算書を、表計算ソフトのデータから生成することができる。
 
 ## ライブラリ・モジュール・パッケージ
@@ -237,7 +237,7 @@
 ### その他
 
 - [ITF-Dic](https://github.com/nandenjin/itfdic) - MeCabで利用できる、筑波大学の独自語を自然言語解析辞書にまとめたもの。
-- ~[twins-core (npm, 終了)](https://www.npmjs.com/package/twins-core)~ - TWINSをプログラムで読み取るためのライブラリ。
+- <s>[twins-core (npm, 終了)](https://www.npmjs.com/package/twins-core)</s> - TWINSをプログラムで読み取るためのライブラリ。
 - [klis-b-thesis](https://github.com/mpkato/klis-b-thesis) - 知識情報・図書館学類の卒業論文・抄録用のLaTeX用スタイルパッケージ。参考文献をSIST-02で表記できるBeast言語テンプレートも入っている。
 - [KLIS Thesis](https://ja.overleaf.com/latex/templates/klis-thesis/hvbfzckzcnck) - 知識情報・図書館学類の卒業論文用Overleafテンプレート。LaTeX Project Public License 1.3cでライセンスされている。
 
@@ -337,7 +337,7 @@
 - [えりたんBOT @eritanbot](https://twitter.com/eritanbot) - 循環バスの時刻表や授業の教室検索が行えるbotアカウント。スマホアプリも存在する。
 - [筑波大学 学生お役立ち情報(自動向け投稿アカウント) @Utsukuba_auto](https://twitter.com/Utsukuba_auto) - 学内のセンターやサイトの新着情報を自動投稿する。
 - [筑波大学附属図書館 / 新着資料非公式Bot @tulipsnewbooks](https://twitter.com/tulipsnewbooks) - 図書館の新着資料を自動投稿する。[ソース](https://github.com/eggplants/nowlibcraw)
-- ~[ITF.授業通知bot @itf_notify (更新停止)](https://github.com/himkt/bulletin_bot)~ - 筑波大学・大学院の授業に関する掲示をTwitterでお知らせするBot。[ソース](https://github.com/himkt/bulletin_bot)
+- <s>[ITF.授業通知bot @itf_notify (更新停止)](https://github.com/himkt/bulletin_bot)</s> - 筑波大学・大学院の授業に関する掲示をTwitterでお知らせするBot。[ソース](https://github.com/himkt/bulletin_bot)
 
 ### フィード・RSS
 
@@ -379,7 +379,7 @@
 - [OpenEsys](https://ayu.open.esys.tsukuba.ac.jp/)
 - [AC部屋](http://www.ac-room.org/)
 - Tsukuba System Programming Enthusiasts - システムプログラミングに関するコミュニティ。筑波大学のDiscord Student Hubから参加できる。
-- ~[COINS Project(終了)](https://web.archive.org/web/http://coins-p.cs.tsukuba.ac.jp/)~ - coins学生によるサービス開発グループのサイト。
+- <s>[COINS Project(終了)](https://web.archive.org/web/http://coins-p.cs.tsukuba.ac.jp/)</s> - coins学生によるサービス開発グループのサイト。
 
 ## 講義
 
