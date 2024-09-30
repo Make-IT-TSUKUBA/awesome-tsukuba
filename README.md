@@ -225,6 +225,7 @@
 #### アプリケーション
 
 - ~[Tsukuba mate(終了)](https://github.com/MuShare/Tsukuba-iOS)~ - 筑波大生向けのフリマアプリ。
+- [@tsukuba-neu/sawagani](https://github.com/tsukuba-neu/sawagani/blob/dev/README.md) - 課外活動団体が提出する収支計算書を、表計算ソフトのデータから生成することができる。
 
 ## ライブラリ・モジュール・パッケージ
 
