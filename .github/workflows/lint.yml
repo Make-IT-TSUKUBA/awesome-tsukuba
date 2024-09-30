@@ -19,4 +19,4 @@ jobs:
       - name: Lint with markdownlint
         uses: DavidAnson/markdownlint-cli2-action@v17
         with:
-          config: .github/mdl-config.json
+          config: .github/.markdownlint.json
