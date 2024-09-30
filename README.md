@@ -231,12 +231,12 @@
 ### KdB
 
 - [twinte-parser (npm)](https://www.npmjs.com/package/twinte-parser) - Twinte内部で利用するために開発された KdB のパーサー。
-- [twinkle-parser (npm)](https://www.npmjs.com/package/twinkle-parser) - Parse CSV from `https://kdb.tsukuba.ac.jp` to structured JSON.
+- [twinkle-parser (npm)](https://www.npmjs.com/package/twinkle-parser) - KdB のダウンロードデータを JSON に変換するためのパーサー。[Twinkle](https://twinkle.tsukuba.one/) のメンテナンスに利用されているツールを公開したもの。
 
 ### その他
 
 - [ITF-Dic](https://github.com/nandenjin/itfdic) - MeCabで利用できる、筑波大学の独自語を自然言語解析辞書にまとめたもの。
-- ~[twins-core (npm, 終了)](https://www.npmjs.com/package/twins-core)~ - Wrapper API Client of TWINS.
+- ~[twins-core (npm, 終了)](https://www.npmjs.com/package/twins-core)~ - TWINSをプログラムで読み取るためのライブラリ。
 - [klis-b-thesis](https://github.com/mpkato/klis-b-thesis) - 知識情報・図書館学類の卒業論文・抄録用のLaTeX用スタイルパッケージ。参考文献をSIST-02で表記できるBeast言語テンプレートも入っている。
 - [KLIS Thesis](https://ja.overleaf.com/latex/templates/klis-thesis/hvbfzckzcnck) - 知識情報・図書館学類の卒業論文用Overleafテンプレート。LaTeX Project Public License 1.3cでライセンスされている。
 
