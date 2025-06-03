@@ -163,7 +163,8 @@
 #### Webサービス・Webサイト
 
 - [筑波大学 自販機 Map](https://itf-vendingmachine.vercel.app/) - 筑波大学構内の自動販売機の場所を一覧できるサイト。
-- [BusVis](https://busvis.herokuapp.com/) - 大学循環バスの現在位置や時刻表がわかるサイト。
+- <s>[BusVis(終了)](https://busvis.herokuapp.com/)</s> - 大学循環バスの現在位置や時刻表がわかるサイト。
+- [Campus GIS](https://land.geo.tsukuba.ac.jp/campusgis/CampusGIS_jpn_big.aspx) - 筑波大学構内の施設（レストランから非常電話まで）を航空写真や主題図上から確認できるサイト。
 
 #### アプリ
 
