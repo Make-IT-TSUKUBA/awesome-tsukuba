@@ -163,7 +163,8 @@
 #### Webサービス・Webサイト
 
 - [筑波大学 自販機 Map](https://itf-vendingmachine.vercel.app/) - 筑波大学構内の自動販売機の場所を一覧できるサイト。
-- [BusVis](https://busvis.herokuapp.com/) - 大学循環バスの現在位置や時刻表がわかるサイト。
+- <s>[BusVis(終了)](https://busvis.herokuapp.com/)</s> - 大学循環バスの現在位置や時刻表がわかるサイト。
+- [Campus GIS](https://land.geo.tsukuba.ac.jp/campusgis/CampusGIS_jpn_big.aspx) - 筑波大学構内の施設（レストランから非常電話まで）を航空写真や主題図上から確認できるサイト。
 
 #### アプリ
 
@@ -244,7 +245,7 @@
 ##### その他
 
 - [298production Advent Calendar 2023](https://adventar.org/calendars/9079)
-- [筑波NSミライラボのカレンダー | Advent Calendar 2023](https://qiita.com/advent-calendar/2023/tsukuba-ns-mirailabo)
+- [筑波NSミライラボ Advent Calendar 2023](https://qiita.com/advent-calendar/2023/tsukuba-ns-mirailabo)
 - [天久保 Advent Calendar 2023](https://adventar.org/calendars/8938)
 - [ITF.20生クソツイ集 Advent Calendar 2023](https://adventar.org/calendars/9230)
 
