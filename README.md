@@ -60,7 +60,7 @@
 
 - [KdBもどき](https://make-it-tsukuba.github.io/alternative-tsukuba-kdb/) - KdBの代替サービス。フロントエンドのみで動作する。KdBより検索が高速。
 - [sylms Explorer](https://sylms-explorer.open.coins.tsukuba.ac.jp/) - KdBの代替サービス。独自のデータベースとAPIを持っている。KdBより検索が高速。
-- [KdBシラバスミラー](https://github.com/Make-IT-TSUKUBA/alternative-tsukuba-syllabus/) - KdBが保存しているシラバスページをミラーするサイト。KdBもどきから表示できる。
+- <s>[KdBシラバスミラー](https://github.com/Make-IT-TSUKUBA/alternative-tsukuba-syllabus/)</s> - KdBが保存しているシラバスページをミラーするサイト。KdBもどきから表示できる。
 - [KdB2](https://kdb2.tsukuba.one/) - KdBの代替サービス。シラバスを参照、検索するためのREST APIを持つ。[オープンソース](https://github.com/until-tsukuba/kdb2-server)。
 
 ### manaba
