@@ -133,7 +133,7 @@
 
 #### Webサービス・Webサイト
 
-- [Twinkle](https://twinkle.tsukuba.one/) - 履修している授業を登録すると、Googleカレンダーと連携し授業の予定を自動登録してくれる。
+- <s>[Twinkle](https://twinkle.nandenjin.com/)</s> - 履修している授業を登録すると、Googleカレンダーと連携し授業の予定を自動登録してくれる。
 - <s>[TwinCal(終了)](https://cal.tsukuba.io/)</s> - 履修している授業を登録すると、カレンダーファイル（.ics）を出力でき、GoogleカレンダーやAppleカレンダーなどにインポートできる。
 - [TwinC](https://mimori256.github.io/twinc/#/) - 履修している授業を登録すると、カレンダーファイル（.ics）を出力でき、GoogleカレンダーやAppleカレンダーなどにインポートできる。
 
@@ -201,7 +201,7 @@
 ### KdB
 
 - [twinte-parser (npm)](https://www.npmjs.com/package/twinte-parser) - Twinte内部で利用するために開発された KdB のパーサー。
-- [twinkle-parser (npm)](https://www.npmjs.com/package/twinkle-parser) - KdB のダウンロードデータを JSON に変換するためのパーサー。[Twinkle](https://twinkle.tsukuba.one/) のメンテナンスに利用されているツールを公開したもの。
+- [twinkle-parser (npm)](https://www.npmjs.com/package/twinkle-parser) - KdB のダウンロードデータを JSON に変換するためのパーサー。[Twinkle](https://twinkle.nandenjin.com/) のメンテナンスに利用されているツールを公開したもの。
 
 ### その他
 
